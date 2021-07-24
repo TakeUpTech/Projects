@@ -11,3 +11,9 @@ A small summary of all my projects and realeses as a list of links.
 ## Coming soon :
 - Escape game *rework* `(Unity C#)` -> Space Escape
 - AI `(Python)` -> Amadeus : [Github](https://github.com/CyberTorii/Amadeus)
+## Software used :
+- Unity -> Video games
+- blender -> 3D modeling
+- Intellij IDEA -> `Java & Dart`
+- Visual Studio Code -> `Python & C#`
+- Krita -> Design
