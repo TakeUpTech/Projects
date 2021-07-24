@@ -6,8 +6,8 @@ A small summary of all my projects and realeses as a list of links.
 - Arcade game `(Unity C#)` -> Slide Arena : [itch.io](https://cybertorii.itch.io/slide-arena) or [Google Play Store](https://play.google.com/store/apps/details?id=com.CyberTorii.SlideArena)
 - Quiz game `(JavaFx)` -> Quiz of what you want : [Github](https://github.com/CyberTorii/Quiz-of-what-you-want)
 - Arcade game `(JavaFx)` -> PacMan 2 Players : [Github](https://github.com/CyberTorii/PACMAN-2-PLAYERS)
-- Application -> Skill Tree `(Dart & Flutter)` : [Github](https://github.com/CyberTorii/Skill-Tree)
+- Application `(Dart & Flutter)` -> Skill Tree : [Github](https://github.com/CyberTorii/Skill-Tree)
 - Games companion `(Unity C#)` -> My Games Companion : [itch.io](https://cybertorii.itch.io/my-games-companion)
 ## Coming soon :
 - Escape game *rework* `(Unity C#)` -> Space Escape
-- AI -> Amadeus : [Github](https://github.com/CyberTorii/Amadeus)
+- AI `(Python)` -> Amadeus : [Github](https://github.com/CyberTorii/Amadeus)
