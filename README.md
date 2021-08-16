@@ -8,10 +8,10 @@ A small summary of all my projects and realeses as a list of links.
 - Quiz game `(JavaFx)` -> Quiz of what you want (04/2021) : [Github](https://github.com/CyberTorii/Quiz-of-what-you-want)
 - Application `(Dart & Flutter)` -> Skill Tree (06/2021) : [Github](https://github.com/CyberTorii/Skill-Tree)
 - Games companion `(Unity C#)` -> My Games Companion (07/2021) : [itch.io](https://cybertorii.itch.io/my-games-companion)
+- AI `(Python)` -> Amadeus (04/2021) : [Github](https://github.com/CyberTorii/Amadeus)
 ## Coming soon :
-- Horror textual game `(Java)` -> AHOME
-- Escape game *rework* `(Unity C#)` -> Space Escape
-- AI `(Python)` -> Amadeus  : [Github](https://github.com/CyberTorii/Amadeus)
+- Horror textual game `(Java)` -> AHOME (10/2020)
+- Escape game *rework (2021)* `(Unity C#)` -> Space Escape (2017)
 ## Software used :
 - Unity -> Video games
 - blender -> 3D modeling
