@@ -9,6 +9,7 @@ A small summary of all my projects and realeses as a list of links.
 - Application `(Dart & Flutter)` -> Skill Tree (06/2021) : [Github](https://github.com/CyberTorii/Skill-Tree)
 - Games companion `(Unity C#)` -> My Games Companion (07/2021) : [itch.io](https://cybertorii.itch.io/my-games-companion)
 ## Coming soon :
+- Horror textual game `(Java)` -> AHOME
 - Escape game *rework* `(Unity C#)` -> Space Escape
 - AI `(Python)` -> Amadeus  : [Github](https://github.com/CyberTorii/Amadeus)
 ## Software used :
