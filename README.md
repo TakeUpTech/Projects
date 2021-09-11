@@ -1,7 +1,6 @@
 # Cybertorii's Projects Summary :
 ## Currently :
 A small summary of all my projects and realeses as a list of links.
-- YouTube channel (07/2020) : [CyberTorii](https://www.youtube.com/channel/UCCHZRtEp3Ac9402OL-5KhLg)
 - Arcade game `(Unity C#)` -> Survival on Titan (02/2020) : Backup lost
 - Arcade game `(Unity C#)` -> Slide Arena (09/2020) : [itch.io](https://cybertorii.itch.io/slide-arena) or [Google Play Store](https://play.google.com/store/apps/details?id=com.CyberTorii.SlideArena)
 - Horror textual game `(Java)` -> AHOME (10/2020)
