@@ -1,3 +1,4 @@
+# Cybertorii's Projects
 ## Currently :
 A small summary of all my projects and realeses as a list of links.
 - Arcade game `(Unity C#)` -> Survival on Titan (02/2020) : Backup lost
@@ -19,7 +20,7 @@ Release platforms :
 - [itch.io](https://cybertorii.itch.io/slide-arena)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.CyberTorii.SlideArena)
 
-https://user-images.githubusercontent.com/73184884/143921524-3c249e3d-aa8a-4702-9447-2dee0bfbd0f9.mp4
+[Slide Arena Launch Trailer](https://user-images.githubusercontent.com/73184884/143921524-3c249e3d-aa8a-4702-9447-2dee0bfbd0f9.mp4)
 
 ## Software used :
 - Unity -> Video games
