@@ -56,7 +56,7 @@ Slide and dodge various and varied enemies coming from either side of a chessboa
 It's as part of a school project (in duo) of 2nd year of engineering school that we started programming the horror and action game Dead by Daylight in a text version. The game uses same "gameplay" of Dead by Daylight. The goal is to repair 3 generators to escape the place and a killer who is looking for you.
 
 **Release platforms :**
-- [Github](https://github.com/CyberTorii/AHOME)
+- [Github](https://github.com/CyberTorii/AHOME/releases/tag/v1.0.0)
 
 <p align="center">
   <img width="512" alt="ahome" src="https://user-images.githubusercontent.com/73184884/129604228-b9d067db-f9a5-4edd-82eb-d0ba9495a3ee.png"/>
@@ -89,7 +89,7 @@ It's as part of a school project (in duo) of 2nd year of engineering school that
 This game is a customizable quiz developed in "speed run" over 48 hours. It allows you to create one or more quizzes in a same game and to be able to mix all themes you want.
 
 **Release platforms :**
-- [Github](https://github.com/CyberTorii/Quiz-of-what-you-want)
+- [Github](https://github.com/CyberTorii/Quiz-of-what-you-want/releases/tag/v1.0.0)
 
 ## Skill Tree
 
@@ -101,7 +101,7 @@ This game is a customizable quiz developed in "speed run" over 48 hours. It allo
 This personal project is a Skill Tree in real life. It is a test to learn how to code in Flutter/Dart a programming language used for mobile apps.
 
 **Release platforms :**
-- [Github](https://github.com/CyberTorii/Skill-Tree)
+- [Github](https://github.com/CyberTorii/Skill-Tree/releases/tag/v1.0.0)
 
 ## My Games Companion
 
@@ -113,7 +113,7 @@ This personal project is a Skill Tree in real life. It is a test to learn how to
 This personal project is a Skill Tree in real life. It is a test to learn how to code in Flutter/Dart a programming language used for mobile apps.
 
 **Release platforms :**
-- [Github](https://github.com/CyberTorii/Skill-Tree)
+- [itch.io](https://cybertorii.itch.io/my-games-companion)
 
 ## Amadeus
 
