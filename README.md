@@ -1,12 +1,12 @@
 # Cybertorii's Projects
-## Currently :
+## Summary :
 A small summary of all my projects and realeses as a list of links.
-- Arcade game `(Unity C#)` -> Survival on Titan (02/2020) : Backup lost
-- Arcade game `(Unity C#)` -> Slide Arena (09/2020) : [itch.io](https://cybertorii.itch.io/slide-arena) or [Google Play Store](https://play.google.com/store/apps/details?id=com.CyberTorii.SlideArena)
-- Horror textual game `(Java)` -> AHOME (10/2020) : [Github](https://github.com/CyberTorii/AHOME)
-- Arcade game `(JavaFx)` -> PacMan 2 Players (02/2021) : [Github](https://github.com/CyberTorii/PACMAN-2-PLAYERS)
-- Quiz game `(JavaFx)` -> Quiz of what you want (04/2021) : [Github](https://github.com/CyberTorii/Quiz-of-what-you-want)
-- Application `(Dart & Flutter)` -> Skill Tree (06/2021) : [Github](https://github.com/CyberTorii/Skill-Tree)
+- Survival on Titan
+- Slide Arena
+- AHOME
+- PACMAN 2 PLAYERS
+- Quiz of what you want
+- Skill Tree
 - Games companion `(Unity C#)` -> My Games Companion (07/2021) : [itch.io](https://cybertorii.itch.io/my-games-companion)
 - AI `(Python)` -> Amadeus (04/2021) : [Github](https://github.com/CyberTorii/Amadeus)
 - Escape game rework `(Unity C#)` -> Space Escape (2017) to Flee (08/2021) : [YouTube](https://youtu.be/4gkywrKIdNM)
@@ -56,10 +56,10 @@ Slide and dodge various and varied enemies coming from either side of a chessboa
 It's as part of a school project (in duo) of 2nd year of engineering school that we started programming the horror and action game Dead by Daylight in a text version. The game uses same "gameplay" of Dead by Daylight. The goal is to repair 3 generators to escape the place and a killer who is looking for you.
 
 **Release platforms :**
-- [Github](https://github.com/CyberTorii/PACMAN-2-PLAYERS/tree/main/PACMAN2P%20The%20Game)
+- [Github](https://github.com/CyberTorii/AHOME)
 
 <p align="center">
-  <img width="512" alt="ahome" src="https://user-images.githubusercontent.com/73184884/129604228-b9d067db-f9a5-4edd-82eb-d0ba9495a3ee.png">
+  <img width="512" alt="ahome" src="https://user-images.githubusercontent.com/73184884/129604228-b9d067db-f9a5-4edd-82eb-d0ba9495a3ee.png"/>
 </p>
 
 ## PACMAN 2 PLAYERS
@@ -72,11 +72,36 @@ It's as part of a school project (in duo) of 2nd year of engineering school that
 It's as part of a school project (in duo) of 2nd year of engineering school that we started programming a Pac-Man playable with 2 players on a same computer. It uses the same gameplay as the classic Pac-Man with some differences. You would pay attention to collisions between players which cause loss of life, to bonuses which does not necessarily transform players into berserker mode, but which can also give an extra life or a score bonus. The different exits of the map don’t necessarily lead to the opposite exit: it’s random.
 
 **Release platforms :**
-- [Github](https://github.com/CyberTorii/AHOME/tree/main/AHOME%20The%20Game)
+- [Github](https://github.com/CyberTorii/PACMAN-2-PLAYERS)
 
 <p align="center">
-  <img alt="pacman" src="https://user-images.githubusercontent.com/73184884/143937081-d58120fa-9f1f-4473-9875-50af80680d11.gif">
+  <img alt="pacman" src="https://user-images.githubusercontent.com/73184884/143937081-d58120fa-9f1f-4473-9875-50af80680d11.gif" width="128"/>
 </p>
+
+
+## Quiz of what you want
+
+**Informations :** 
+- Date : 04/2021
+- Support : JavaFx
+
+**Description :** 
+This game is a customizable quiz developed in "speed run" over 48 hours. It allows you to create one or more quizzes in a same game and to be able to mix all themes you want.
+
+**Release platforms :**
+- [Github](https://github.com/CyberTorii/Quiz-of-what-you-want)
+
+## Skill Tree
+
+**Informations :** 
+- Date : 06/2021
+- Support : Dart (Flutter)
+
+**Description :** 
+This personal project is a Skill Tree in real life. It is a test to learn how to code in Flutter/Dart a programming language used for mobile apps.
+
+**Release platforms :**
+- [Github](https://github.com/CyberTorii/Skill-Tree)
 
 ## Software used :
 - Unity -> Video games
