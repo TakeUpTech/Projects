@@ -19,10 +19,10 @@ A small summary of all my projects and realeses as a list of links.
 - Unity backup lost
 
 **Description :** 
-???
+Coming soon
 
 **Release platforms :**
-- ???
+- [Github](https://github.com/CyberTorii/Projects/releases/tag/1.1.43)
 
 <p align="center">
   <img alt="icon" src="https://user-images.githubusercontent.com/73184884/143929214-868fa305-d3c9-4e43-a185-5df624f0d403.png" width="128" height="128"/>
@@ -139,10 +139,10 @@ Amadeus project is an artificial intelligence coded in python. The main goal of 
 - [Trailer in full res](https://youtu.be/4gkywrKIdNM)
 
 **Description :** 
-???
+Coming soon
 
 **Release platforms :**
-- ???
+- [Github](https://github.com/CyberTorii/Projects/releases/tag/v1.0.0)
 
 [Flee Launch Trailer](https://user-images.githubusercontent.com/73184884/143948777-dc501a11-96a6-496e-a6e5-0e2f41390c15.mp4)
 
