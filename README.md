@@ -12,12 +12,18 @@ A small summary of all my projects and realeses as a list of links.
 - Escape game rework `(Unity C#)` -> Space Escape (2017) to Flee (08/2021) : [YouTube](https://youtu.be/4gkywrKIdNM)
 
 
-## Survival on Titan (02/2020)
+## Survival on Titan
+
+**Informations :** 
+- Date : 02/2020
+- Support : Unity 3D
+- Unity backup lost
+
 **Description :** 
 ???
 
-**Informations :** 
-Unity backup lost
+**Release platforms :**
+- ???
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/73184884/143929214-868fa305-d3c9-4e43-a185-5df624f0d403.png" width="150" height="150"/>
@@ -25,18 +31,36 @@ Unity backup lost
   <img src="https://user-images.githubusercontent.com/73184884/143930570-52f2afb5-4ed4-4afa-9ee8-2b942d3053c0.jpg" height="150"/>
 </p>
 
-Release platforms :
-- ???
+## Slide Arena
 
-## Slide Arena (09/2020)
+**Informations :** 
+- Date : 09/2020
+- Support : Unity 3D
+
 **Description :** 
 Slide and dodge various and varied enemies coming from either side of a chessboard in order to get the best score. Getting a high score will allow you to unlock lots of skins and maps. Events will also allow you to earn exclusive limited-time skins so don't waste time. Get the highest score and win all challenges to become the best player of Slide Arena !
 
-Release platforms :
+**Release platforms :**
 - [itch.io](https://cybertorii.itch.io/slide-arena)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.CyberTorii.SlideArena)
 
 [Slide Arena Launch Trailer](https://user-images.githubusercontent.com/73184884/143921524-3c249e3d-aa8a-4702-9447-2dee0bfbd0f9.mp4)
+
+## AHOME
+
+**Informations :** 
+- Date : 10/2020
+- Support : Java
+
+**Description :** 
+It's as part of a school project (in duo) of 2nd year of engineering school that we started programming the horror and action game Dead by Daylight in a text version. The game uses same "gameplay" of Dead by Daylight. The goal is to repair 3 generators to escape the place and a killer who is looking for you.
+
+**Release platforms :**
+- [Github](https://github.com/CyberTorii/AHOME/tree/main/AHOME%20The%20Game)
+
+<p align="center">
+  <img width="512" alt="Example" src="https://user-images.githubusercontent.com/73184884/129604228-b9d067db-f9a5-4edd-82eb-d0ba9495a3ee.png">
+</p>
 
 ## Software used :
 - Unity -> Video games
