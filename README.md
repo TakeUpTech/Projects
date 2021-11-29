@@ -14,7 +14,7 @@ A small summary of all my projects and realeses as a list of links.
 
 ## Survival on Titan (02/2020)
 **Description :** 
-Slide and dodge various and varied enemies coming from either side of a chessboard in order to get the best score. Getting a high score will allow you to unlock lots of skins and maps. Events will also allow you to earn exclusive limited-time skins so don't waste time. Get the highest score and win all challenges to become the best player of Slide Arena !
+???
 
 **Informations :** 
 Unity backup lost
