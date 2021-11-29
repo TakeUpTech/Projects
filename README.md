@@ -17,7 +17,7 @@ A small summary of all my projects and realeses as a list of links.
 - Support : Unity 3D - C#
 - Unity backup lost
 
-**Description :** 
+**Description :** \
 Coming soon
 
 **Release platforms :**
@@ -36,7 +36,7 @@ Coming soon
 - Support : Unity 3D - C#
 - [Trailer in full res](https://youtu.be/d_oJrXqCORU)
 
-**Description :** 
+**Description :** \
 Slide and dodge various and varied enemies coming from either side of a chessboard in order to get the best score. Getting a high score will allow you to unlock lots of skins and maps. Events will also allow you to earn exclusive limited-time skins so don't waste time. Get the highest score and win all challenges to become the best player of Slide Arena !
 
 **Release platforms :**
@@ -51,7 +51,7 @@ Slide and dodge various and varied enemies coming from either side of a chessboa
 - Date : 10/2020
 - Support : Intellij - Java
 
-**Description :** 
+**Description :** \
 It's as part of a school project (in duo) of 2nd year of engineering school that we started programming the horror and action game Dead by Daylight in a text version. The game uses same "gameplay" of Dead by Daylight. The goal is to repair 3 generators to escape the place and a killer who is looking for you.
 
 **Release platforms :**
@@ -67,7 +67,7 @@ It's as part of a school project (in duo) of 2nd year of engineering school that
 - Date : 02/2021
 - Support : Intellij - JavaFx
 
-**Description :** 
+**Description :** \
 It's as part of a school project (in duo) of 2nd year of engineering school that we started programming a Pac-Man playable with 2 players on a same computer. It uses the same gameplay as the classic Pac-Man with some differences. You would pay attention to collisions between players which cause loss of life, to bonuses which does not necessarily transform players into berserker mode, but which can also give an extra life or a score bonus. The different exits of the map don’t necessarily lead to the opposite exit: it’s random.
 
 **Release platforms :**
@@ -83,7 +83,7 @@ It's as part of a school project (in duo) of 2nd year of engineering school that
 - Date : 04/2021
 - Support : Intellij - JavaFx
 
-**Description :** 
+**Description :** \
 This game is a customizable quiz developed in "speed run" over 48 hours. It allows you to create one or more quizzes in a same game and to be able to mix all themes you want.
 
 **Release platforms :**
@@ -95,7 +95,7 @@ This game is a customizable quiz developed in "speed run" over 48 hours. It allo
 - Date : 06/2021
 - Support : Intellij - Dart (Flutter)
 
-**Description :** 
+**Description :** \
 This personal project is a Skill Tree in real life. It is a test to learn how to code in Flutter/Dart a programming language used for mobile apps.
 
 **Release platforms :**
@@ -107,7 +107,7 @@ This personal project is a Skill Tree in real life. It is a test to learn how to
 - Date : 07/2021
 - Support : Intellij - Dart (Flutter)
 
-**Description :** 
+**Description :** \
 This personal project is a Skill Tree in real life. It is a test to learn how to code in Flutter/Dart a programming language used for mobile apps.
 
 **Release platforms :**
@@ -119,7 +119,7 @@ This personal project is a Skill Tree in real life. It is a test to learn how to
 - Date : 04/2021
 - Support : VSCode - Python
 
-**Description :** 
+**Description :** \
 Amadeus project is an artificial intelligence coded in python. The main goal of this project is to recreate "Amadeus", the artificial intelligence of Steins;Gate 0.
 
 **Release platforms :**
@@ -136,7 +136,7 @@ Amadeus project is an artificial intelligence coded in python. The main goal of 
 - Support : Unity 3D - C#
 - [Trailer in full res](https://youtu.be/4gkywrKIdNM)
 
-**Description :** 
+**Description :** \
 Coming soon
 
 **Release platforms :**
