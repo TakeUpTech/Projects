@@ -18,3 +18,6 @@ A small summary of all my projects and realeses as a list of links.
 - Intellij IDEA -> `Java & Dart`
 - Visual Studio Code -> `Python & C#`
 - Krita -> Design
+## Survival on Titan (02/2020)
+## Slide Arena (09/2020)
+https://youtu.be/d_oJrXqCORU
