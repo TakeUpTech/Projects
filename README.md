@@ -147,11 +147,11 @@ Amadeus project is an artificial intelligence coded in python. The main goal of 
 [Flee Launch Trailer](https://user-images.githubusercontent.com/73184884/143948777-dc501a11-96a6-496e-a6e5-0e2f41390c15.mp4)
 
 ## Software used :
-- Unity 3D -> Video games
-- blender -> 3D modelling
-- Intellij IDEA -> `Java & Dart`
-- Visual Studio Code -> `Python & C#`
-- Krita -> Design
+- Unity 3D - Video games
+- blender - 3D modelling and animation
+- Intellij IDEA - `Java & Dart`
+- Visual Studio Code - `Python & C#`
+- Krita - 2D design
 
 ## Coming soon :
 - Nothing for the moment
