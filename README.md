@@ -1,7 +1,6 @@
 # Cybertorii's Projects
 ## Currently :
-A small summary of al
-l my projects and realeses as a list of links.
+A small summary of all my projects and realeses as a list of links.
 - Arcade game `(Unity C#)` -> Survival on Titan (02/2020) : Backup lost
 - Arcade game `(Unity C#)` -> Slide Arena (09/2020) : [itch.io](https://cybertorii.itch.io/slide-arena) or [Google Play Store](https://play.google.com/store/apps/details?id=com.CyberTorii.SlideArena)
 - Horror textual game `(Java)` -> AHOME (10/2020) : [Github](https://github.com/CyberTorii/AHOME)
@@ -11,6 +10,7 @@ l my projects and realeses as a list of links.
 - Games companion `(Unity C#)` -> My Games Companion (07/2021) : [itch.io](https://cybertorii.itch.io/my-games-companion)
 - AI `(Python)` -> Amadeus (04/2021) : [Github](https://github.com/CyberTorii/Amadeus)
 - Escape game rework `(Unity C#)` -> Space Escape (2017) to Flee (08/2021) : [YouTube](https://youtu.be/4gkywrKIdNM)
+- 
 ## Coming soon :
 - Nothing for the moment
 
