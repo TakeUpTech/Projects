@@ -11,7 +11,7 @@ A small summary of all my projects and realeses as a list of links.
 - Flee
 
 
-## Survival on Titan
+**## Survival on Titan**
 
 **Informations :** 
 - Date : 02/2020
@@ -72,7 +72,7 @@ It's as part of a school project (in duo) of 2nd year of engineering school that
 It's as part of a school project (in duo) of 2nd year of engineering school that we started programming a Pac-Man playable with 2 players on a same computer. It uses the same gameplay as the classic Pac-Man with some differences. You would pay attention to collisions between players which cause loss of life, to bonuses which does not necessarily transform players into berserker mode, but which can also give an extra life or a score bonus. The different exits of the map don’t necessarily lead to the opposite exit: it’s random.
 
 **Release platforms :**
-- [Github](https://github.com/CyberTorii/PACMAN-2-PLAYERS)
+- [Github](https://github.com/CyberTorii/PACMAN-2-PLAYERS/releases/tag/v1.0.0)
 
 <p align="center">
   <img alt="pacman" src="https://user-images.githubusercontent.com/73184884/143937081-d58120fa-9f1f-4473-9875-50af80680d11.gif" width="128"/>
