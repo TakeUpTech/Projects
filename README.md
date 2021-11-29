@@ -10,7 +10,6 @@ A small summary of all my projects and realeses as a list of links.
 - Amadeus
 - Flee
 
-
 ## Survival on Titan
 
 **Informations :** 
@@ -77,7 +76,6 @@ It's as part of a school project (in duo) of 2nd year of engineering school that
 <p align="center">
   <img alt="pacman" src="https://user-images.githubusercontent.com/73184884/143937081-d58120fa-9f1f-4473-9875-50af80680d11.gif" width="128"/>
 </p>
-
 
 ## Quiz of what you want
 
