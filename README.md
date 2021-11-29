@@ -11,9 +11,6 @@ A small summary of all my projects and realeses as a list of links.
 - AI `(Python)` -> Amadeus (04/2021) : [Github](https://github.com/CyberTorii/Amadeus)
 - Escape game rework `(Unity C#)` -> Space Escape (2017) to Flee (08/2021) : [YouTube](https://youtu.be/4gkywrKIdNM)
 
-## Coming soon :
-- Nothing for the moment
-
 ## Survival on Titan (02/2020)
 ## Slide Arena (09/2020)
 Description : 
