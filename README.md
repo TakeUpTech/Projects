@@ -1,4 +1,3 @@
-# Cybertorii's Projects
 ## Currently :
 A small summary of all my projects and realeses as a list of links.
 - Arcade game `(Unity C#)` -> Survival on Titan (02/2020) : Backup lost
