@@ -13,7 +13,21 @@ A small summary of all my projects and realeses as a list of links.
 
 
 ## Survival on Titan (02/2020)
-![Survival on Titan Icon App](https://user-images.githubusercontent.com/73184884/143929214-868fa305-d3c9-4e43-a185-5df624f0d403.png)
+**Description :** 
+Slide and dodge various and varied enemies coming from either side of a chessboard in order to get the best score. Getting a high score will allow you to unlock lots of skins and maps. Events will also allow you to earn exclusive limited-time skins so don't waste time. Get the highest score and win all challenges to become the best player of Slide Arena !
+
+**Informations :** 
+Unity backup lost
+
+<p align="center">
+   <img src="https://user-images.githubusercontent.com/73184884/143929214-868fa305-d3c9-4e43-a185-5df624f0d403.png" width="150" height="150"/>
+  <img src="https://user-images.githubusercontent.com/73184884/143930575-a307850b-1957-4ae0-8ccf-ead73b264447.jpg" height="150"/>
+  <img src="https://user-images.githubusercontent.com/73184884/143930570-52f2afb5-4ed4-4afa-9ee8-2b942d3053c0.jpg" height="150"/>
+</p>
+
+Release platforms :
+- ???
+
 ## Slide Arena (09/2020)
 **Description :** 
 Slide and dodge various and varied enemies coming from either side of a chessboard in order to get the best score. Getting a high score will allow you to unlock lots of skins and maps. Events will also allow you to earn exclusive limited-time skins so don't waste time. Get the highest score and win all challenges to become the best player of Slide Arena !
