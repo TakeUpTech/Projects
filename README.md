@@ -13,12 +13,7 @@ l my projects and realeses as a list of links.
 - Escape game rework `(Unity C#)` -> Space Escape (2017) to Flee (08/2021) : [YouTube](https://youtu.be/4gkywrKIdNM)
 ## Coming soon :
 - Nothing for the moment
-## Software used :
-- Unity -> Video games
-- blender -> 3D modeling
-- Intellij IDEA -> `Java & Dart`
-- Visual Studio Code -> `Python & C#`
-- Krita -> Design
+
 ## Survival on Titan (02/2020)
 ## Slide Arena (09/2020)
 Description : 
@@ -29,3 +24,10 @@ Release platforms :
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.CyberTorii.SlideArena)
 
 https://user-images.githubusercontent.com/73184884/143921524-3c249e3d-aa8a-4702-9447-2dee0bfbd0f9.mp4
+
+## Software used :
+- Unity -> Video games
+- blender -> 3D modeling
+- Intellij IDEA -> `Java & Dart`
+- Visual Studio Code -> `Python & C#`
+- Krita -> Design
