@@ -28,3 +28,6 @@ https://user-images.githubusercontent.com/73184884/143921524-3c249e3d-aa8a-4702-
 - Intellij IDEA -> `Java & Dart`
 - Visual Studio Code -> `Python & C#`
 - Krita -> Design
+
+## Coming soon :
+- Nothing for the moment
