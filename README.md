@@ -1,14 +1,14 @@
 # Cybertorii's Projects
 ## Summary :
 A small summary of all my projects and realeses as a list of links.
-- Survival on Titan
-- Slide Arena
-- AHOME
-- PACMAN 2 PLAYERS
-- Quiz of what you want
-- Skill Tree
+- Survival on Titan (Mobile Game)
+- Slide Arena (Mobile Game)
+- AHOME (Terminal Game)
+- PACMAN 2 PLAYERS (PC Game)
+- Quiz of what you want (PC Game)
+- Skill Tree (Mobile Application)
 - Amadeus
-- Flee
+- Flee (PC Game)
 
 ## Survival on Titan
 
