@@ -10,7 +10,7 @@ A small summary of all my projects and realeses as a list of links.
 - Games companion `(Unity C#)` -> My Games Companion (07/2021) : [itch.io](https://cybertorii.itch.io/my-games-companion)
 - AI `(Python)` -> Amadeus (04/2021) : [Github](https://github.com/CyberTorii/Amadeus)
 - Escape game rework `(Unity C#)` -> Space Escape (2017) to Flee (08/2021) : [YouTube](https://youtu.be/4gkywrKIdNM)
-- 
+
 ## Coming soon :
 - Nothing for the moment
 
