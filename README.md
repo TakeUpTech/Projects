@@ -26,9 +26,9 @@ A small summary of all my projects and realeses as a list of links.
 - ???
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/73184884/143929214-868fa305-d3c9-4e43-a185-5df624f0d403.png" width="150" height="150"/>
-  <img src="https://user-images.githubusercontent.com/73184884/143930575-a307850b-1957-4ae0-8ccf-ead73b264447.jpg" height="150"/>
-  <img src="https://user-images.githubusercontent.com/73184884/143930570-52f2afb5-4ed4-4afa-9ee8-2b942d3053c0.jpg" height="150"/>
+   <img alt="icon" src="https://user-images.githubusercontent.com/73184884/143929214-868fa305-d3c9-4e43-a185-5df624f0d403.png" width="150" height="150"/>
+  <img alt="game" src="https://user-images.githubusercontent.com/73184884/143930575-a307850b-1957-4ae0-8ccf-ead73b264447.jpg" height="150"/>
+  <img alt="option" src="https://user-images.githubusercontent.com/73184884/143930570-52f2afb5-4ed4-4afa-9ee8-2b942d3053c0.jpg" height="150"/>
 </p>
 
 ## Slide Arena
@@ -56,10 +56,26 @@ Slide and dodge various and varied enemies coming from either side of a chessboa
 It's as part of a school project (in duo) of 2nd year of engineering school that we started programming the horror and action game Dead by Daylight in a text version. The game uses same "gameplay" of Dead by Daylight. The goal is to repair 3 generators to escape the place and a killer who is looking for you.
 
 **Release platforms :**
+- [Github](https://github.com/CyberTorii/PACMAN-2-PLAYERS/tree/main/PACMAN2P%20The%20Game)
+
+<p align="center">
+  <img width="512" alt="ahome" src="https://user-images.githubusercontent.com/73184884/129604228-b9d067db-f9a5-4edd-82eb-d0ba9495a3ee.png">
+</p>
+
+## PACMAN 2 PLAYERS
+
+**Informations :** 
+- Date : 02/2021
+- Support : JavaFx
+
+**Description :** 
+It's as part of a school project (in duo) of 2nd year of engineering school that we started programming a Pac-Man playable with 2 players on a same computer. It uses the same gameplay as the classic Pac-Man with some differences. You would pay attention to collisions between players which cause loss of life, to bonuses which does not necessarily transform players into berserker mode, but which can also give an extra life or a score bonus. The different exits of the map don’t necessarily lead to the opposite exit: it’s random.
+
+**Release platforms :**
 - [Github](https://github.com/CyberTorii/AHOME/tree/main/AHOME%20The%20Game)
 
 <p align="center">
-  <img width="512" alt="Example" src="https://user-images.githubusercontent.com/73184884/129604228-b9d067db-f9a5-4edd-82eb-d0ba9495a3ee.png">
+  <img alt="pacman" src="https://user-images.githubusercontent.com/73184884/143937081-d58120fa-9f1f-4473-9875-50af80680d11.gif">
 </p>
 
 ## Software used :
