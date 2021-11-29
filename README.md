@@ -8,7 +8,7 @@ A small summary of all my projects and realeses as a list of links.
 - Quiz of what you want
 - Skill Tree
 - Amadeus
-- Escape game rework `(Unity C#)` -> Space Escape (2017) to Flee (08/2021) : [YouTube](https://youtu.be/4gkywrKIdNM)
+- Flee
 
 
 ## Survival on Titan
@@ -35,6 +35,7 @@ A small summary of all my projects and realeses as a list of links.
 **Informations :** 
 - Date : 09/2020
 - Support : Unity 3D - C#
+- [Trailer in full res](https://youtu.be/d_oJrXqCORU)
 
 **Description :** 
 Slide and dodge various and varied enemies coming from either side of a chessboard in order to get the best score. Getting a high score will allow you to unlock lots of skins and maps. Events will also allow you to earn exclusive limited-time skins so don't waste time. Get the highest score and win all challenges to become the best player of Slide Arena !
@@ -135,6 +136,7 @@ Amadeus project is an artificial intelligence coded in python. The main goal of 
 **Informations :** 
 - Date : 08/2021
 - Support : Unity 3D - C#
+- [Trailer in full res](https://youtu.be/4gkywrKIdNM)
 
 **Description :** 
 ???
@@ -145,8 +147,8 @@ Amadeus project is an artificial intelligence coded in python. The main goal of 
 [Flee Launch Trailer](https://user-images.githubusercontent.com/73184884/143948777-dc501a11-96a6-496e-a6e5-0e2f41390c15.mp4)
 
 ## Software used :
-- Unity -> Video games
-- blender -> 3D modeling
+- Unity 3D -> Video games
+- blender -> 3D modelling
 - Intellij IDEA -> `Java & Dart`
 - Visual Studio Code -> `Python & C#`
 - Krita -> Design
