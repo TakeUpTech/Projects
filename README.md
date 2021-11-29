@@ -7,7 +7,7 @@ A small summary of all my projects and realeses as a list of links.
 - PACMAN 2 PLAYERS
 - Quiz of what you want
 - Skill Tree
-- AI `(Python)` -> Amadeus (04/2021) : [Github](https://github.com/CyberTorii/Amadeus)
+- Amadeus
 - Escape game rework `(Unity C#)` -> Space Escape (2017) to Flee (08/2021) : [YouTube](https://youtu.be/4gkywrKIdNM)
 
 
@@ -15,7 +15,7 @@ A small summary of all my projects and realeses as a list of links.
 
 **Informations :** 
 - Date : 02/2020
-- Support : Unity 3D
+- Support : Unity 3D - C#
 - Unity backup lost
 
 **Description :** 
@@ -25,16 +25,16 @@ A small summary of all my projects and realeses as a list of links.
 - ???
 
 <p align="center">
-   <img alt="icon" src="https://user-images.githubusercontent.com/73184884/143929214-868fa305-d3c9-4e43-a185-5df624f0d403.png" width="150" height="150"/>
-  <img alt="game" src="https://user-images.githubusercontent.com/73184884/143930575-a307850b-1957-4ae0-8ccf-ead73b264447.jpg" height="150"/>
-  <img alt="option" src="https://user-images.githubusercontent.com/73184884/143930570-52f2afb5-4ed4-4afa-9ee8-2b942d3053c0.jpg" height="150"/>
+  <img alt="icon" src="https://user-images.githubusercontent.com/73184884/143929214-868fa305-d3c9-4e43-a185-5df624f0d403.png" width="128" height="128"/>
+  <img alt="game" src="https://user-images.githubusercontent.com/73184884/143930575-a307850b-1957-4ae0-8ccf-ead73b264447.jpg" height="128"/>
+  <img alt="option" src="https://user-images.githubusercontent.com/73184884/143930570-52f2afb5-4ed4-4afa-9ee8-2b942d3053c0.jpg" height="128"/>
 </p>
 
 ## Slide Arena
 
 **Informations :** 
 - Date : 09/2020
-- Support : Unity 3D
+- Support : Unity 3D - C#
 
 **Description :** 
 Slide and dodge various and varied enemies coming from either side of a chessboard in order to get the best score. Getting a high score will allow you to unlock lots of skins and maps. Events will also allow you to earn exclusive limited-time skins so don't waste time. Get the highest score and win all challenges to become the best player of Slide Arena !
@@ -49,7 +49,7 @@ Slide and dodge various and varied enemies coming from either side of a chessboa
 
 **Informations :** 
 - Date : 10/2020
-- Support : Java
+- Support : Intellij - Java
 
 **Description :** 
 It's as part of a school project (in duo) of 2nd year of engineering school that we started programming the horror and action game Dead by Daylight in a text version. The game uses same "gameplay" of Dead by Daylight. The goal is to repair 3 generators to escape the place and a killer who is looking for you.
@@ -65,7 +65,7 @@ It's as part of a school project (in duo) of 2nd year of engineering school that
 
 **Informations :** 
 - Date : 02/2021
-- Support : JavaFx
+- Support : Intellij - JavaFx
 
 **Description :** 
 It's as part of a school project (in duo) of 2nd year of engineering school that we started programming a Pac-Man playable with 2 players on a same computer. It uses the same gameplay as the classic Pac-Man with some differences. You would pay attention to collisions between players which cause loss of life, to bonuses which does not necessarily transform players into berserker mode, but which can also give an extra life or a score bonus. The different exits of the map don’t necessarily lead to the opposite exit: it’s random.
@@ -82,7 +82,7 @@ It's as part of a school project (in duo) of 2nd year of engineering school that
 
 **Informations :** 
 - Date : 04/2021
-- Support : JavaFx
+- Support : Intellij - JavaFx
 
 **Description :** 
 This game is a customizable quiz developed in "speed run" over 48 hours. It allows you to create one or more quizzes in a same game and to be able to mix all themes you want.
@@ -94,7 +94,7 @@ This game is a customizable quiz developed in "speed run" over 48 hours. It allo
 
 **Informations :** 
 - Date : 06/2021
-- Support : Dart (Flutter)
+- Support : Intellij - Dart (Flutter)
 
 **Description :** 
 This personal project is a Skill Tree in real life. It is a test to learn how to code in Flutter/Dart a programming language used for mobile apps.
@@ -106,13 +106,43 @@ This personal project is a Skill Tree in real life. It is a test to learn how to
 
 **Informations :** 
 - Date : 07/2021
-- Support : Dart (Flutter)
+- Support : Intellij - Dart (Flutter)
 
 **Description :** 
 This personal project is a Skill Tree in real life. It is a test to learn how to code in Flutter/Dart a programming language used for mobile apps.
 
 **Release platforms :**
 - [Github](https://github.com/CyberTorii/Skill-Tree)
+
+## Amadeus
+
+**Informations :** 
+- Date : 04/2021
+- Support : VSCode - Python
+
+**Description :** 
+Amadeus project is an artificial intelligence coded in python. The main goal of this project is to recreate "Amadeus", the artificial intelligence of Steins;Gate 0.
+
+**Release platforms :**
+- [Github](https://github.com/CyberTorii/Amadeus)
+
+<p align="center">
+  <img width="512" alt="graphic" src="https://user-images.githubusercontent.com/73184884/125999025-db4194fe-261a-45cb-a1a7-a61a95883833.png"/>
+</p>
+
+## Flee (Space Escape rework)
+
+**Informations :** 
+- Date : 08/2021
+- Support : Unity 3D - C#
+
+**Description :** 
+???
+
+**Release platforms :**
+- ???
+
+[Flee Launch Trailer](https://user-images.githubusercontent.com/73184884/143948777-dc501a11-96a6-496e-a6e5-0e2f41390c15.mp4)
 
 ## Software used :
 - Unity -> Video games
