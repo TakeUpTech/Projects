@@ -7,7 +7,6 @@ A small summary of all my projects and realeses as a list of links.
 - PACMAN 2 PLAYERS
 - Quiz of what you want
 - Skill Tree
-- Games companion `(Unity C#)` -> My Games Companion (07/2021) : [itch.io](https://cybertorii.itch.io/my-games-companion)
 - AI `(Python)` -> Amadeus (04/2021) : [Github](https://github.com/CyberTorii/Amadeus)
 - Escape game rework `(Unity C#)` -> Space Escape (2017) to Flee (08/2021) : [YouTube](https://youtu.be/4gkywrKIdNM)
 
@@ -95,6 +94,18 @@ This game is a customizable quiz developed in "speed run" over 48 hours. It allo
 
 **Informations :** 
 - Date : 06/2021
+- Support : Dart (Flutter)
+
+**Description :** 
+This personal project is a Skill Tree in real life. It is a test to learn how to code in Flutter/Dart a programming language used for mobile apps.
+
+**Release platforms :**
+- [Github](https://github.com/CyberTorii/Skill-Tree)
+
+## My Games Companion
+
+**Informations :** 
+- Date : 07/2021
 - Support : Dart (Flutter)
 
 **Description :** 
