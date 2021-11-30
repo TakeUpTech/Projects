@@ -1,26 +1,18 @@
 # Cybertorii's Projects
-## Summary :
-A small summary of all my projects and realeses as a list of links.
-- Survival on Titan (Mobile Game)
-- Slide Arena (Mobile Game)
-- AHOME (Terminal Game)
-- PACMAN 2 PLAYERS (PC Game)
-- Quiz of what you want (PC Game)
-- Skill Tree (Mobile Application)
-- Amadeus
-- Flee (PC Game)
+> Here you will find an overview of all of my projects and releases present chronologically as a list.
 
 ## Survival on Titan
 
 **Informations :** 
 - Date : 02/2020
 - Support : Unity 3D - C#
+- Platform : Android mobile
 - Unity backup lost
 
 **Description :** \
 Coming soon
 
-**Release platforms :**
+**Release :**
 - [Github](https://github.com/CyberTorii/Projects/releases/tag/1.1.43)
 
 <p align="center">
@@ -34,12 +26,13 @@ Coming soon
 **Informations :** 
 - Date : 09/2020
 - Support : Unity 3D - C#
+- Platform : Android mobile
 - [Trailer in full res](https://youtu.be/d_oJrXqCORU)
 
 **Description :** \
 Slide and dodge various and varied enemies coming from either side of a chessboard in order to get the best score. Getting a high score will allow you to unlock lots of skins and maps. Events will also allow you to earn exclusive limited-time skins so don't waste time. Get the highest score and win all challenges to become the best player of Slide Arena !
 
-**Release platforms :**
+**Release :**
 - [itch.io](https://cybertorii.itch.io/slide-arena)
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.CyberTorii.SlideArena)
 
@@ -50,11 +43,12 @@ Slide and dodge various and varied enemies coming from either side of a chessboa
 **Informations :** 
 - Date : 10/2020
 - Support : Intellij - Java
+- Platform : PC
 
 **Description :** \
 It's as part of a school project (in duo) of 2nd year of engineering school that we started programming the horror and action game Dead by Daylight in a text version. The game uses same "gameplay" of Dead by Daylight. The goal is to repair 3 generators to escape the place and a killer who is looking for you.
 
-**Release platforms :**
+**Release :**
 - [Github](https://github.com/CyberTorii/AHOME/releases/tag/v1.0.0)
 
 <p align="center">
@@ -66,11 +60,12 @@ It's as part of a school project (in duo) of 2nd year of engineering school that
 **Informations :** 
 - Date : 02/2021
 - Support : Intellij - JavaFx
+- Platform : PC
 
 **Description :** \
 It's as part of a school project (in duo) of 2nd year of engineering school that we started programming a Pac-Man playable with 2 players on a same computer. It uses the same gameplay as the classic Pac-Man with some differences. You would pay attention to collisions between players which cause loss of life, to bonuses which does not necessarily transform players into berserker mode, but which can also give an extra life or a score bonus. The different exits of the map don’t necessarily lead to the opposite exit: it’s random.
 
-**Release platforms :**
+**Release :**
 - [Github](https://github.com/CyberTorii/PACMAN-2-PLAYERS/releases/tag/v1.0.0)
 
 <p align="center">
@@ -82,11 +77,12 @@ It's as part of a school project (in duo) of 2nd year of engineering school that
 **Informations :** 
 - Date : 04/2021
 - Support : Intellij - JavaFx
+- Platform : PC
 
 **Description :** \
 This game is a customizable quiz developed in "speed run" over 48 hours. It allows you to create one or more quizzes in a same game and to be able to mix all themes you want.
 
-**Release platforms :**
+**Release :**
 - [Github](https://github.com/CyberTorii/Quiz-of-what-you-want/releases/tag/v1.0.0)
 
 ## Skill Tree
@@ -94,11 +90,12 @@ This game is a customizable quiz developed in "speed run" over 48 hours. It allo
 **Informations :** 
 - Date : 06/2021
 - Support : Intellij - Dart (Flutter)
+- Platform : Android mobile
 
 **Description :** \
 This personal project is a Skill Tree in real life. It is a test to learn how to code in Flutter/Dart a programming language used for mobile apps.
 
-**Release platforms :**
+**Release :**
 - [Github](https://github.com/CyberTorii/Skill-Tree/releases/tag/v1.0.0)
 
 ## My Games Companion
@@ -106,11 +103,12 @@ This personal project is a Skill Tree in real life. It is a test to learn how to
 **Informations :** 
 - Date : 07/2021
 - Support : Intellij - Dart (Flutter)
+- Platform : PC
 
 **Description :** \
-This personal project is a Skill Tree in real life. It is a test to learn how to code in Flutter/Dart a programming language used for mobile apps.
+This application is a game companion for multiple games. At the beginning, it's a personal project, but I decided to share it with you.  For the demo (version G1) there is only a Dead by Daylight's game companion.  Future updates will allow to add new games and new features. Don't hesitate to put suggestions in the comments.
 
-**Release platforms :**
+**Release :**
 - [itch.io](https://cybertorii.itch.io/my-games-companion)
 
 ## Amadeus
@@ -118,11 +116,12 @@ This personal project is a Skill Tree in real life. It is a test to learn how to
 **Informations :** 
 - Date : 04/2021
 - Support : VSCode - Python
+- Platform : PC
 
 **Description :** \
 Amadeus project is an artificial intelligence coded in python. The main goal of this project is to recreate "Amadeus", the artificial intelligence of Steins;Gate 0.
 
-**Release platforms :**
+**Work details :**
 - [Github](https://github.com/CyberTorii/Amadeus)
 
 <p align="center">
@@ -134,12 +133,13 @@ Amadeus project is an artificial intelligence coded in python. The main goal of 
 **Informations :** 
 - Date : 08/2021
 - Support : Unity 3D - C#
+- Platform : PC
 - [Trailer in full res](https://youtu.be/4gkywrKIdNM)
 
 **Description :** \
 Coming soon
 
-**Release platforms :**
+**Release :**
 - [Github](https://github.com/CyberTorii/Projects/releases/tag/v1.0.0)
 
 [Flee Launch Trailer](https://user-images.githubusercontent.com/73184884/143948777-dc501a11-96a6-496e-a6e5-0e2f41390c15.mp4)
@@ -152,4 +152,4 @@ Coming soon
 - Krita - 2D design
 
 ## Coming soon :
-- Nothing for the moment
+- Missing elements in this page.
