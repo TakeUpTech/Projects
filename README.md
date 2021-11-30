@@ -152,4 +152,4 @@ Coming soon
 - Krita - 2D design
 
 ## Coming soon :
-- Missing elements in this page.
+- Missing elements on this page.
