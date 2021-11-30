@@ -41,7 +41,7 @@ In this game inspired by Attack on Titans, your mission will be to survive as lo
 ## Slide Arena
 
 **Informations :** 
-- Date : 09/2020
+- Date : 09/2020 - Currently
 - Support : Unity 3D - C#
 - Platform : Android mobile
 
@@ -124,8 +124,8 @@ This personal project is a Skill Tree in real life. It is a test to learn how to
 ## My Games Companion
 
 **Informations :** 
-- Date : 07/2021
-- Support : Intellij - Dart (Flutter)
+- Date : 07/2021 - Currently
+- Support : Unity 3D - C#
 - Platform : PC
 
 **Description :** \
@@ -140,7 +140,7 @@ This application is a game companion for multiple games. At the beginning, it's 
 ## Amadeus
 
 **Informations :** 
-- Date : 04/2021
+- Date : 04/2021 - Currently
 - Support : VSCode - Python
 - Platform : PC
 
@@ -156,7 +156,7 @@ Amadeus project is an artificial intelligence coded in python. The main goal of 
 ## Flee (Space Escape rework)
 
 **Informations :** 
-- Date : 08/2021
+- Date : 08/2021 - Currently
 - Support : Unity 3D - C#
 - Platform : PC
 
@@ -169,7 +169,7 @@ This project is a rework of Space Escape, my first game : an escape game develop
 
 [Flee Launch Trailer](https://user-images.githubusercontent.com/73184884/143948777-dc501a11-96a6-496e-a6e5-0e2f41390c15.mp4)
 
-**Release :** [Github](https://github.com/CyberTorii/Projects/releases/tag/v1.0.0)
+**Release :** [Github](https://github.com/CyberTorii/Projects/releases/tag/v2.0.0)
 
 ## Software used :
 - Unity 3D - Video games
