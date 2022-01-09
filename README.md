@@ -1,6 +1,8 @@
 # Cybertorii's Projects
 > Here you will find an overview of all of my projects and releases present chronologically as a list.
 
+# Game Developpement :
+
 ## Space Escape
 
 **Informations :** 
@@ -170,6 +172,14 @@ This project is a rework of Space Escape, my first game : an escape game develop
 [Flee Launch Trailer](https://user-images.githubusercontent.com/73184884/143948777-dc501a11-96a6-496e-a6e5-0e2f41390c15.mp4)
 
 **Release :** [Github](https://github.com/CyberTorii/Projects/releases/tag/v2.0.0)
+
+# 3D Modeling :
+
+Coming soon
+
+# Art and Illustration :
+
+Coming soon
 
 ## Software used :
 - Unity 3D - Video games
