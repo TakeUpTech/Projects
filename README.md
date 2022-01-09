@@ -1,7 +1,9 @@
 # Cybertorii's Projects
 > Here you will find an overview of all of my projects and releases present chronologically as a list.
 
-# Game Developpement :
+# ./Showreel :
+
+# ./Game Developpement :
 
 ## Space Escape
 
@@ -173,20 +175,17 @@ This project is a rework of Space Escape, my first game : an escape game develop
 
 **Release :** [Github](https://github.com/CyberTorii/Projects/releases/tag/v2.0.0)
 
-# 3D Modeling :
+# ./3D Modeling :
 
 Coming soon
 
-# Art and Illustration :
+# ./Art and Illustrations :
 
 Coming soon
 
-## Software used :
+# /.Software used :
 - Unity 3D - Video games
 - blender - 3D modelling and animation
 - Intellij IDEA - `Java & Dart`
 - Visual Studio Code - `Python & C#`
 - Krita - 2D design
-
-## Coming soon :
-- Nothing for the moment.
