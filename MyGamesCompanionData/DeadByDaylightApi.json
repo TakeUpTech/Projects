@@ -10,7 +10,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Adrenaline.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Adrenaline.png"
     },
     {
        "_id":"5f46d9afa3777022ec62607d",
@@ -23,7 +23,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Empathy.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Empathy.png"
     },
     {
        "_id":"5f46d9afa3777022ec626082",
@@ -36,7 +36,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Saboteur.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Saboteur.png"
     },
     {
        "_id":"5f46d9afa3777022ec626081",
@@ -49,7 +49,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/CalmSpirit.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/CalmSpirit.png"
     },
     {
        "_id":"5f46d9afa3777022ec626083",
@@ -62,7 +62,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BalancedLanding.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BalancedLanding.png"
     },
     {
        "_id":"5f46d9afa3777022ec626097",
@@ -75,7 +75,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Vigil.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Vigil.png"
     },
     {
        "_id":"5f46d9afa3777022ec62609a",
@@ -88,7 +88,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/StakeOut.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/StakeOut.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260a2",
@@ -101,7 +101,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Aftercare.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Aftercare.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260a3",
@@ -114,7 +114,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Distortion.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Distortion.png"
     },
     {
        "_id":"5f46d9afa3777022ec626084",
@@ -127,7 +127,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/UrbanEvasion.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/UrbanEvasion.png"
     },
     {
        "_id":"5f46d9afa3777022ec62608a",
@@ -140,7 +140,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/UptheAnte.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/UptheAnte.png"
     },
     {
        "_id":"5f46d9afa3777022ec626098",
@@ -153,7 +153,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Tenacity.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Tenacity.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260b6",
@@ -166,7 +166,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Kindred.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Kindred.png"
     },
     {
        "_id":"5f46d9afa3777022ec626091",
@@ -179,7 +179,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Alert.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Alert.png"
     },
     {
        "_id":"5f46d9afa3777022ec626093",
@@ -192,7 +192,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DeadHard.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DeadHard.png"
     },
     {
        "_id":"5f46d9afa3777022ec626095",
@@ -205,7 +205,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/WakeUp.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/WakeUp.png"
     },
     {
        "_id":"5f46d9afa3777022ec62609b",
@@ -218,7 +218,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DanceWithMe.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DanceWithMe.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260a1",
@@ -231,7 +231,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Breakdown.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Breakdown.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260b2",
@@ -244,7 +244,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Breakout.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Breakout.png"
     },
     {
        "_id":"5f46d9afa3777022ec62607e",
@@ -257,7 +257,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BotanyKnowledge.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BotanyKnowledge.png"
     },
     {
        "_id":"5f46d9afa3777022ec62607a",
@@ -270,7 +270,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Bond.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Bond.png"
     },
     {
        "_id":"5f46d9afa3777022ec626086",
@@ -283,7 +283,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SoleSurvivor.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SoleSurvivor.png"
     },
     {
        "_id":"5f46d9afa3777022ec62607f",
@@ -296,7 +296,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SelfCare.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SelfCare.png"
     },
     {
        "_id":"5f46d9afa3777022ec62608c",
@@ -309,7 +309,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/LeftBehind.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/LeftBehind.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260af",
@@ -322,7 +322,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SecondWind.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SecondWind.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260b3",
@@ -335,7 +335,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DarkSense.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DarkSense.png"
     },
     {
        "_id":"5f46d9afa3777022ec62607c",
@@ -348,7 +348,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Leader.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Leader.png"
     },
     {
        "_id":"5f46d9afa3777022ec62609d",
@@ -361,7 +361,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BoilOver.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BoilOver.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260b4",
@@ -374,7 +374,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DejaVu.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DejaVu.png"
     },
     {
        "_id":"5f46d9afa3777022ec626094",
@@ -387,7 +387,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/NoMither.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/NoMither.png"
     },
     {
        "_id":"5f46d9afa3777022ec626077",
@@ -400,7 +400,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/QuickQuiet.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/QuickQuiet.png"
     },
     {
        "_id":"5f46d9afa3777022ec626080",
@@ -413,7 +413,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/IronWill.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/IronWill.png"
     },
     {
        "_id":"5f46d9afa3777022ec62609c",
@@ -426,7 +426,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/WindowsofOpportunity.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/WindowsofOpportunity.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260ab",
@@ -439,7 +439,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Fixated.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Fixated.png"
     },
     {
        "_id":"5f46d9afa3777022ec62608f",
@@ -452,7 +452,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Technician.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Technician.png"
     },
     {
        "_id":"5f46d9afa3777022ec626096",
@@ -465,7 +465,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Pharmacy.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Pharmacy.png"
     },
     {
        "_id":"5f46d9afa3777022ec62609e",
@@ -478,7 +478,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Diversion.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Diversion.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260b5",
@@ -491,7 +491,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Hope.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Hope.png"
     },
     {
        "_id":"5f46d9afa3777022ec62609f",
@@ -504,7 +504,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Deliverance.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Deliverance.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260a0",
@@ -517,7 +517,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Autodidact.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Autodidact.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260a8",
@@ -530,7 +530,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BuckleUp.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BuckleUp.png"
     },
     {
        "_id":"5f46d9afa3777022ec62608b",
@@ -543,7 +543,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/AceintheHole.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/AceintheHole.png"
     },
     {
        "_id":"5f46d9afa3777022ec626099",
@@ -556,7 +556,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DetectivesHunch.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DetectivesHunch.png"
     },
     {
        "_id":"5f46d9afa3777022ec626078",
@@ -569,7 +569,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SprintBurst.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SprintBurst.png"
     },
     {
        "_id":"5f46d9afa3777022ec626089",
@@ -582,7 +582,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/OpenHanded.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/OpenHanded.png"
     },
     {
        "_id":"5f46d9afa3777022ec62608d",
@@ -595,7 +595,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BorrowedTime.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BorrowedTime.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260b1",
@@ -608,7 +608,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/AnyMeansNecessary.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/AnyMeansNecessary.png"
     },
     {
        "_id":"5f46d9afa3777022ec626088",
@@ -621,7 +621,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DecisiveStrike.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DecisiveStrike.png"
     },
     {
        "_id":"5f46d9afa3777022ec626085",
@@ -634,7 +634,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Streetwise.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Streetwise.png"
     },
     {
        "_id":"5f46d9afa3777022ec62607b",
@@ -647,7 +647,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ProveThyself.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ProveThyself.png"
     },
     {
        "_id":"5f46d9afa3777022ec626092",
@@ -660,7 +660,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/WereGonnaLiveForever.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/WereGonnaLiveForever.png"
     },
     {
        "_id":"5f46d9afa3777022ec62608e",
@@ -673,7 +673,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Unbreakable.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Unbreakable.png"
     },
     {
        "_id":"5f46d9afa3777022ec626090",
@@ -686,7 +686,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Lithe.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Lithe.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260a4",
@@ -699,7 +699,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Solidarity.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Solidarity.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260a5",
@@ -712,7 +712,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Poised.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Poised.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260a7",
@@ -725,7 +725,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/FlipFlop.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/FlipFlop.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260ac",
@@ -738,7 +738,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/InnerStrength.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/InnerStrength.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260b0",
@@ -751,7 +751,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/LuckyBreak.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/LuckyBreak.png"
     },
     {
        "_id":"5f46d9afa3777022ec626087",
@@ -764,7 +764,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ObjectofObsession.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ObjectofObsession.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260aa",
@@ -777,7 +777,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BetterTogether.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BetterTogether.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260a6",
@@ -790,7 +790,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HeadOn.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HeadOn.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260ad",
@@ -803,7 +803,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Babysitter.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Babysitter.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260ae",
@@ -816,7 +816,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Camaraderie.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Camaraderie.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260a9",
@@ -829,7 +829,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/MettleofMan.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/MettleofMan.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260d0",
@@ -842,7 +842,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexTheThirdSeal.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexTheThirdSeal.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260b7",
@@ -855,7 +855,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Lightweight.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Lightweight.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260c6",
@@ -868,7 +868,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Shadowborn.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Shadowborn.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260b9",
@@ -881,7 +881,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/PlunderersInstinct.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/PlunderersInstinct.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260d8",
@@ -894,7 +894,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexHuntressLullaby.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexHuntressLullaby.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260e0",
@@ -907,7 +907,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Surveillance.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Surveillance.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260f6",
@@ -920,7 +920,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Nemesis.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Nemesis.png"
     },
     {
        "_id":"5f46d9afa3777022ec62610c",
@@ -933,7 +933,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SoulGuard.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SoulGuard.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260d4",
@@ -946,7 +946,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/MonitorAbuse.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/MonitorAbuse.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260c9",
@@ -959,7 +959,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Tinkerer.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Tinkerer.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260c4",
@@ -972,7 +972,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Predator.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Predator.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260c2",
@@ -985,7 +985,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BrutalStrength.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BrutalStrength.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260c7",
@@ -998,7 +998,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Enduring.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Enduring.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260c8",
@@ -1011,7 +1011,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Lightborn.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Lightborn.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260db",
@@ -1024,7 +1024,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/FranklinsDemise.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/FranklinsDemise.png"
     },
     {
        "_id":"5f46d9afa3777022ec626106",
@@ -1037,7 +1037,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/OffTheRecord.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/OffTheRecord.png"
     },
     {
        "_id":"5f46d9afa3777022ec626118",
@@ -1050,7 +1050,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Bond.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Bond.png"
     },
     {
        "_id":"5f46d9afa3777022ec62611c",
@@ -1063,7 +1063,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BotanyKnowledge.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BotanyKnowledge.png"
     },
     {
        "_id":"5f46d9afa3777022ec626120",
@@ -1076,7 +1076,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Saboteur.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Saboteur.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260c1",
@@ -1089,7 +1089,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/UnnervingPresence.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/UnnervingPresence.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260ce",
@@ -1102,7 +1102,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/PlaywithYourFood.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/PlaywithYourFood.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260d2",
@@ -1115,7 +1115,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexDevourHope.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexDevourHope.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260fd",
@@ -1128,7 +1128,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/IronGrasp.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/IronGrasp.png"
     },
     {
        "_id":"5f46d9afa3777022ec62611a",
@@ -1141,7 +1141,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Leader.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Leader.png"
     },
     {
        "_id":"5f46d9afa3777022ec626123",
@@ -1154,7 +1154,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Streetwise.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Streetwise.png"
     },
     {
        "_id":"5f46d9afa3777022ec626128",
@@ -1167,7 +1167,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/UptheAnte.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/UptheAnte.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260c0",
@@ -1180,7 +1180,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/WellMakeIt.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/WellMakeIt.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260d9",
@@ -1193,7 +1193,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/KnockOut.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/KnockOut.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260f7",
@@ -1206,7 +1206,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BitterMurmur.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BitterMurmur.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260f8",
@@ -1219,7 +1219,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Deerstalker.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Deerstalker.png"
     },
     {
        "_id":"5f46d9afa3777022ec626103",
@@ -1232,7 +1232,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/GearHead.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/GearHead.png"
     },
     {
        "_id":"5f46d9afa3777022ec626121",
@@ -1245,7 +1245,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BalancedLanding.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BalancedLanding.png"
     },
     {
        "_id":"5f46d9afa3777022ec626131",
@@ -1258,7 +1258,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DeadHard.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DeadHard.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260bc",
@@ -1271,7 +1271,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SlipperyMeat.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SlipperyMeat.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260cc",
@@ -1284,7 +1284,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/AnursesCalling.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/AnursesCalling.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260df",
@@ -1297,7 +1297,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HangmansTrick.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HangmansTrick.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260fa",
@@ -1310,7 +1310,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexNoOneEscapesDeath.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexNoOneEscapesDeath.png"
     },
     {
        "_id":"5f46d9afa3777022ec626108",
@@ -1323,7 +1323,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ForThePeople.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ForThePeople.png"
     },
     {
        "_id":"5f46d9afa3777022ec62610a",
@@ -1336,7 +1336,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/TrailOfTorment.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/TrailOfTorment.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260d5",
@@ -1349,7 +1349,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Overcharge.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Overcharge.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260dc",
@@ -1362,7 +1362,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/FireUp.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/FireUp.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260e5",
@@ -1375,7 +1375,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SpiritFury.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SpiritFury.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260f2",
@@ -1388,7 +1388,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Mindbreaker.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Mindbreaker.png"
     },
     {
        "_id":"5f46d9afa3777022ec626100",
@@ -1401,7 +1401,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SpiesfromtheShadows.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SpiesfromtheShadows.png"
     },
     {
        "_id":"5f46d9afa3777022ec626112",
@@ -1414,7 +1414,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Visionary.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Visionary.png"
     },
     {
        "_id":"5f46d9afa3777022ec62611b",
@@ -1427,7 +1427,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Empathy.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Empathy.png"
     },
     {
        "_id":"5f46d9afa3777022ec62612d",
@@ -1440,7 +1440,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Technician.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Technician.png"
     },
     {
        "_id":"5f46d9afa3777022ec626136",
@@ -1453,7 +1453,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Tenacity.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Tenacity.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260e6",
@@ -1466,7 +1466,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexHauntedGround.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexHauntedGround.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260e7",
@@ -1479,7 +1479,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Rancor.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Rancor.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260e8",
@@ -1492,7 +1492,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Discordance.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Discordance.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260e9",
@@ -1505,7 +1505,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/MadGrit.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/MadGrit.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260ea",
@@ -1518,7 +1518,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/IronMaiden.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/IronMaiden.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260f3",
@@ -1531,7 +1531,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/CruelLimits.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/CruelLimits.png"
     },
     {
        "_id":"5f46d9afa3777022ec62610f",
@@ -1544,7 +1544,7 @@
        "teach_level":30,
        "is_ptb":true,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DragonsGrip.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DragonsGrip.png"
     },
     {
        "_id":"5f46d9afa3777022ec626116",
@@ -1557,7 +1557,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SprintBurst.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SprintBurst.png"
     },
     {
        "_id":"5f46d9afa3777022ec626126",
@@ -1570,7 +1570,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DecisiveStrike.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DecisiveStrike.png"
     },
     {
        "_id":"5f46d9afa3777022ec62612b",
@@ -1583,7 +1583,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BorrowedTime.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BorrowedTime.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260ee",
@@ -1596,7 +1596,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ImAllEars.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ImAllEars.png"
     },
     {
        "_id":"5f46d9afa3777022ec626101",
@@ -1609,7 +1609,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Unrelenting.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Unrelenting.png"
     },
     {
        "_id":"5f46d9afa3777022ec626127",
@@ -1622,7 +1622,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/OpenHanded.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/OpenHanded.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260bd",
@@ -1635,7 +1635,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SmallGame.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SmallGame.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260be",
@@ -1648,7 +1648,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SpineChill.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SpineChill.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260c3",
@@ -1661,7 +1661,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Agitation.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Agitation.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260c5",
@@ -1674,7 +1674,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Bloodhound.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Bloodhound.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260d3",
@@ -1687,7 +1687,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/OverwhelmingPresence.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/OverwhelmingPresence.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260de",
@@ -1700,7 +1700,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BloodWarden.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BloodWarden.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260e1",
@@ -1713,7 +1713,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/MakeYourChoice.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/MakeYourChoice.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260ec",
@@ -1726,7 +1726,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/InfectiousFright.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/InfectiousFright.png"
     },
     {
        "_id":"5f46d9afa3777022ec626113",
@@ -1739,7 +1739,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DesperateMeasures.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DesperateMeasures.png"
     },
     {
        "_id":"5f46d9afa3777022ec626133",
@@ -1752,7 +1752,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/WakeUp.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/WakeUp.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260cb",
@@ -1765,7 +1765,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Thanatophobia.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Thanatophobia.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260d7",
@@ -1778,7 +1778,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/TerritorialImperative.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/TerritorialImperative.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260b8",
@@ -1791,7 +1791,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/NoOneLeftBehind.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/NoOneLeftBehind.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260cd",
@@ -1804,7 +1804,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SavetheBestforLast.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SavetheBestforLast.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260d6",
@@ -1817,7 +1817,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BeastofPrey.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BeastofPrey.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260da",
@@ -1830,7 +1830,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BarbecueChilli.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BarbecueChilli.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260eb",
@@ -1843,7 +1843,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/CorruptIntervention.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/CorruptIntervention.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260ed",
@@ -1856,7 +1856,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DarkDevotion.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DarkDevotion.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260f1",
@@ -1869,7 +1869,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Surge.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Surge.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260f5",
@@ -1882,7 +1882,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BloodEcho.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BloodEcho.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260fc",
@@ -1895,7 +1895,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Insidious.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Insidious.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260ff",
@@ -1908,7 +1908,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SloppyButcher.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SloppyButcher.png"
     },
     {
        "_id":"5f46d9afa3777022ec626109",
@@ -1921,7 +1921,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ForcedPenance.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ForcedPenance.png"
     },
     {
        "_id":"5f46d9afa3777022ec62610b",
@@ -1934,7 +1934,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Deathbound.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Deathbound.png"
     },
     {
        "_id":"5f46d9afa3777022ec62610e",
@@ -1947,7 +1947,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/RepressedAlliance.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/RepressedAlliance.png"
     },
     {
        "_id":"5f46d9afa3777022ec626111",
@@ -1960,7 +1960,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexUndying.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexUndying.png"
     },
     {
        "_id":"5f46d9afa3777022ec62611f",
@@ -1973,7 +1973,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/CalmSpirit.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/CalmSpirit.png"
     },
     {
        "_id":"5f46d9afa3777022ec626130",
@@ -1986,7 +1986,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/WereGonnaLiveForever.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/WereGonnaLiveForever.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260dd",
@@ -1999,7 +1999,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/RememberMe.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/RememberMe.png"
     },
     {
        "_id":"5f46d9afa3777022ec626105",
@@ -2012,7 +2012,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexRetribution.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexRetribution.png"
     },
     {
        "_id":"5f46d9afa3777022ec626132",
@@ -2025,7 +2025,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/NoMither.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/NoMither.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260bf",
@@ -2038,7 +2038,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ThisIsNotHappening.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ThisIsNotHappening.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260e3",
@@ -2051,7 +2051,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Coulrophobia.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Coulrophobia.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260f9",
@@ -2064,7 +2064,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Distressing.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Distressing.png"
     },
     {
        "_id":"5f46d9afa3777022ec626114",
@@ -2077,7 +2077,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BuiltToLast.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BuiltToLast.png"
     },
     {
        "_id":"5f46d9afa3777022ec62611d",
@@ -2090,7 +2090,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SelfCare.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SelfCare.png"
     },
     {
        "_id":"5f46d9afa3777022ec62611e",
@@ -2103,7 +2103,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/IronWill.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/IronWill.png"
     },
     {
        "_id":"5f46d9afa3777022ec626122",
@@ -2116,7 +2116,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/UrbanEvasion.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/UrbanEvasion.png"
     },
     {
        "_id":"5f46d9afa3777022ec62612c",
@@ -2129,7 +2129,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Unbreakable.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Unbreakable.png"
     },
     {
        "_id":"5f46d9afa3777022ec62612f",
@@ -2142,7 +2142,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Alert.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Alert.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260bb",
@@ -2155,7 +2155,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Resilience.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Resilience.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260f0",
@@ -2168,7 +2168,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/FurtiveChase.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/FurtiveChase.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260ef",
@@ -2181,7 +2181,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ThrillingTremors.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ThrillingTremors.png"
     },
     {
        "_id":"5f46d9afa3777022ec626104",
@@ -2194,7 +2194,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DeadMansSwitch.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DeadMansSwitch.png"
     },
     {
        "_id":"5f46d9afa3777022ec62610d",
@@ -2207,7 +2207,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BloodPact.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BloodPact.png"
     },
     {
        "_id":"5f46d9afa3777022ec626117",
@@ -2220,7 +2220,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Adrenaline.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Adrenaline.png"
     },
     {
        "_id":"5f46d9afa3777022ec626125",
@@ -2233,7 +2233,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ObjectofObsession.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ObjectofObsession.png"
     },
     {
        "_id":"5f46d9afa3777022ec626134",
@@ -2246,7 +2246,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Pharmacy.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Pharmacy.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260fb",
@@ -2259,7 +2259,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexThrilloftheHunt.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexThrilloftheHunt.png"
     },
     {
        "_id":"5f46d9afa3777022ec626110",
@@ -2272,7 +2272,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexBloodFavour.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexBloodFavour.png"
     },
     {
        "_id":"5f46d9afa3777022ec626119",
@@ -2285,7 +2285,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ProveThyself.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ProveThyself.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260ca",
@@ -2298,7 +2298,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Stridor.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Stridor.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260cf",
@@ -2311,7 +2311,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DyingLight.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DyingLight.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260d1",
@@ -2324,7 +2324,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexRuin.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexRuin.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260e4",
@@ -2337,7 +2337,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/PopGoestheWeasel.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/PopGoestheWeasel.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260f4",
@@ -2350,7 +2350,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ZanshinTactics.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ZanshinTactics.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260fe",
@@ -2363,7 +2363,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/MonstrousShrine.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/MonstrousShrine.png"
     },
     {
        "_id":"5f46d9afa3777022ec626124",
@@ -2376,7 +2376,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SoleSurvivor.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SoleSurvivor.png"
     },
     {
        "_id":"5f46d9afa3777022ec62612a",
@@ -2389,7 +2389,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/LeftBehind.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/LeftBehind.png"
     },
     {
        "_id":"5f46d9afa3777022ec62612e",
@@ -2402,7 +2402,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Lithe.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Lithe.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260ba",
@@ -2415,7 +2415,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Premonition.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Premonition.png"
     },
     {
        "_id":"5f46d9afa3777022ec6260e2",
@@ -2428,7 +2428,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Bamboozle.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Bamboozle.png"
     },
     {
        "_id":"5f46d9afa3777022ec626102",
@@ -2441,7 +2441,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Whispers.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Whispers.png"
     },
     {
        "_id":"5f46d9afa3777022ec626107",
@@ -2454,7 +2454,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/RedHerring.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/RedHerring.png"
     },
     {
        "_id":"5f46d9afa3777022ec626115",
@@ -2467,7 +2467,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/QuickQuiet.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/QuickQuiet.png"
     },
     {
        "_id":"5f46d9afa3777022ec626129",
@@ -2480,7 +2480,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/AceintheHole.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/AceintheHole.png"
     },
     {
        "_id":"5f46d9afa3777022ec626135",
@@ -2493,7 +2493,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Vigil.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Vigil.png"
     },
     {
        "_id":"5f46d9afa3777022ec62614a",
@@ -2506,7 +2506,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/InnerStrength.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/InnerStrength.png"
     },
     {
        "_id":"5f46d9afa3777022ec62613d",
@@ -2519,7 +2519,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Deliverance.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Deliverance.png"
     },
     {
        "_id":"5f46d9afa3777022ec62614c",
@@ -2532,7 +2532,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Camaraderie.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Camaraderie.png"
     },
     {
        "_id":"5f46d9afa3777022ec62614e",
@@ -2545,7 +2545,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/LuckyBreak.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/LuckyBreak.png"
     },
     {
        "_id":"5f46d9afa3777022ec62615e",
@@ -2558,7 +2558,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/WellMakeIt.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/WellMakeIt.png"
     },
     {
        "_id":"5f46d9afa3777022ec62616b",
@@ -2571,7 +2571,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SavetheBestforLast.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SavetheBestforLast.png"
     },
     {
        "_id":"5f46d9afa3777022ec626193",
@@ -2584,7 +2584,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BloodEcho.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BloodEcho.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261a7",
@@ -2597,7 +2597,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ForcedPenance.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ForcedPenance.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261a9",
@@ -2610,7 +2610,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Deathbound.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Deathbound.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261b1",
@@ -2623,7 +2623,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DesperateMeasures.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DesperateMeasures.png"
     },
     {
        "_id":"5f46d9afa3777022ec626156",
@@ -2636,7 +2636,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/NoOneLeftBehind.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/NoOneLeftBehind.png"
     },
     {
        "_id":"5f46d9afa3777022ec626139",
@@ -2649,7 +2649,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DanceWithMe.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DanceWithMe.png"
     },
     {
        "_id":"5f46d9afa3777022ec626138",
@@ -2662,7 +2662,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/StakeOut.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/StakeOut.png"
     },
     {
        "_id":"5f46d9afa3777022ec626147",
@@ -2675,7 +2675,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/MettleofMan.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/MettleofMan.png"
     },
     {
        "_id":"5f46d9afa3777022ec62614f",
@@ -2688,7 +2688,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/AnyMeansNecessary.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/AnyMeansNecessary.png"
     },
     {
        "_id":"5f46d9afa3777022ec626151",
@@ -2701,7 +2701,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DarkSense.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DarkSense.png"
     },
     {
        "_id":"5f46d9afa3777022ec626153",
@@ -2714,7 +2714,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Hope.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Hope.png"
     },
     {
        "_id":"5f46d9afa3777022ec62616a",
@@ -2727,7 +2727,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/AnursesCalling.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/AnursesCalling.png"
     },
     {
        "_id":"5f46d9afa3777022ec62619b",
@@ -2740,7 +2740,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/IronGrasp.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/IronGrasp.png"
     },
     {
        "_id":"5f46d9afa3777022ec62619f",
@@ -2753,7 +2753,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Unrelenting.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Unrelenting.png"
     },
     {
        "_id":"5f46d9afa3777022ec626158",
@@ -2766,7 +2766,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Premonition.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Premonition.png"
     },
     {
        "_id":"5f46d9afa3777022ec62615a",
@@ -2779,7 +2779,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SlipperyMeat.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SlipperyMeat.png"
     },
     {
        "_id":"5f46d9afa3777022ec626171",
@@ -2792,7 +2792,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/OverwhelmingPresence.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/OverwhelmingPresence.png"
     },
     {
        "_id":"5f46d9afa3777022ec626185",
@@ -2805,7 +2805,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Rancor.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Rancor.png"
     },
     {
        "_id":"5f46d9afa3777022ec626143",
@@ -2818,7 +2818,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Poised.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Poised.png"
     },
     {
        "_id":"5f46d9afa3777022ec626144",
@@ -2831,7 +2831,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HeadOn.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HeadOn.png"
     },
     {
        "_id":"5f46d9afa3777022ec626169",
@@ -2844,7 +2844,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Thanatophobia.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Thanatophobia.png"
     },
     {
        "_id":"5f46d9afa3777022ec62617d",
@@ -2857,7 +2857,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HangmansTrick.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HangmansTrick.png"
     },
     {
        "_id":"5f46d9afa3777022ec626198",
@@ -2870,7 +2870,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexNoOneEscapesDeath.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexNoOneEscapesDeath.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261b0",
@@ -2883,7 +2883,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Visionary.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Visionary.png"
     },
     {
        "_id":"5f46d9afa3777022ec626170",
@@ -2896,7 +2896,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexDevourHope.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexDevourHope.png"
     },
     {
        "_id":"5f46d9afa3777022ec62617b",
@@ -2909,7 +2909,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/RememberMe.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/RememberMe.png"
     },
     {
        "_id":"5f46d9afa3777022ec62617f",
@@ -2922,7 +2922,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/MakeYourChoice.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/MakeYourChoice.png"
     },
     {
        "_id":"5f46d9afa3777022ec62618e",
@@ -2935,7 +2935,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/FurtiveChase.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/FurtiveChase.png"
     },
     {
        "_id":"5f46d9afa3777022ec626192",
@@ -2948,7 +2948,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ZanshinTactics.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ZanshinTactics.png"
     },
     {
        "_id":"5f46d9afa3777022ec626196",
@@ -2961,7 +2961,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Deerstalker.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Deerstalker.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261a1",
@@ -2974,7 +2974,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/GearHead.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/GearHead.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261ae",
@@ -2987,7 +2987,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexBloodFavour.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexBloodFavour.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261af",
@@ -3000,7 +3000,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexUndying.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexUndying.png"
     },
     {
        "_id":"5f46d9afa3777022ec626141",
@@ -3013,7 +3013,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Distortion.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Distortion.png"
     },
     {
        "_id":"5f46d9afa3777022ec626189",
@@ -3026,7 +3026,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/CorruptIntervention.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/CorruptIntervention.png"
     },
     {
        "_id":"5f46d9afa3777022ec62613a",
@@ -3039,7 +3039,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/WindowsofOpportunity.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/WindowsofOpportunity.png"
     },
     {
        "_id":"5f46d9afa3777022ec62613c",
@@ -3052,7 +3052,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Diversion.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Diversion.png"
     },
     {
        "_id":"5f46d9afa3777022ec626150",
@@ -3065,7 +3065,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Breakout.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Breakout.png"
     },
     {
        "_id":"5f46d9afa3777022ec626163",
@@ -3078,7 +3078,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Bloodhound.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Bloodhound.png"
     },
     {
        "_id":"5f46d9afa3777022ec626188",
@@ -3091,7 +3091,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/IronMaiden.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/IronMaiden.png"
     },
     {
        "_id":"5f46d9afa3777022ec62618c",
@@ -3104,7 +3104,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ImAllEars.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ImAllEars.png"
     },
     {
        "_id":"5f46d9afa3777022ec62619e",
@@ -3117,7 +3117,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SpiesfromtheShadows.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SpiesfromtheShadows.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261ac",
@@ -3130,7 +3130,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/RepressedAlliance.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/RepressedAlliance.png"
     },
     {
        "_id":"5f46d9afa3777022ec626140",
@@ -3143,7 +3143,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Aftercare.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Aftercare.png"
     },
     {
        "_id":"5f46d9afa3777022ec626152",
@@ -3156,7 +3156,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DejaVu.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DejaVu.png"
     },
     {
        "_id":"5f46d9afa3777022ec62618b",
@@ -3169,7 +3169,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DarkDevotion.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DarkDevotion.png"
     },
     {
        "_id":"5f46d9afa3777022ec62613b",
@@ -3182,7 +3182,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BoilOver.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BoilOver.png"
     },
     {
        "_id":"5f46d9afa3777022ec626145",
@@ -3195,7 +3195,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/FlipFlop.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/FlipFlop.png"
     },
     {
        "_id":"5f46d9afa3777022ec626146",
@@ -3208,7 +3208,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BuckleUp.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BuckleUp.png"
     },
     {
        "_id":"5f46d9afa3777022ec626149",
@@ -3221,7 +3221,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Fixated.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Fixated.png"
     },
     {
        "_id":"5f46d9afa3777022ec62615c",
@@ -3234,7 +3234,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SpineChill.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SpineChill.png"
     },
     {
        "_id":"5f46d9afa3777022ec62616f",
@@ -3247,7 +3247,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexRuin.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexRuin.png"
     },
     {
        "_id":"5f46d9afa3777022ec62618f",
@@ -3260,7 +3260,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Surge.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Surge.png"
     },
     {
        "_id":"5f46d9afa3777022ec626197",
@@ -3273,7 +3273,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Distressing.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Distressing.png"
     },
     {
        "_id":"5f46d9afa3777022ec626199",
@@ -3286,7 +3286,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexThrilloftheHunt.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexThrilloftheHunt.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261aa",
@@ -3299,7 +3299,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SoulGuard.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SoulGuard.png"
     },
     {
        "_id":"5f46d9afa3777022ec62614b",
@@ -3312,7 +3312,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Babysitter.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Babysitter.png"
     },
     {
        "_id":"5f46d9afa3777022ec626159",
@@ -3325,7 +3325,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Resilience.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Resilience.png"
     },
     {
        "_id":"5f46d9afa3777022ec62615b",
@@ -3338,7 +3338,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SmallGame.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SmallGame.png"
     },
     {
        "_id":"5f46d9afa3777022ec626174",
@@ -3351,7 +3351,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BeastofPrey.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BeastofPrey.png"
     },
     {
        "_id":"5f46d9afa3777022ec62617a",
@@ -3364,7 +3364,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/FireUp.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/FireUp.png"
     },
     {
        "_id":"5f46d9afa3777022ec62617e",
@@ -3377,7 +3377,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Surveillance.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Surveillance.png"
     },
     {
        "_id":"5f46d9afa3777022ec626184",
@@ -3390,7 +3390,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexHauntedGround.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexHauntedGround.png"
     },
     {
        "_id":"5f46d9afa3777022ec62619a",
@@ -3403,7 +3403,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Insidious.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Insidious.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261a3",
@@ -3416,7 +3416,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexRetribution.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexRetribution.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261a4",
@@ -3429,7 +3429,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/OffTheRecord.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/OffTheRecord.png"
     },
     {
        "_id":"5f46d9afa3777022ec62613f",
@@ -3442,7 +3442,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Breakdown.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Breakdown.png"
     },
     {
        "_id":"5f46d9afa3777022ec626142",
@@ -3455,7 +3455,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Solidarity.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Solidarity.png"
     },
     {
        "_id":"5f46d9afa3777022ec626148",
@@ -3468,7 +3468,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BetterTogether.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BetterTogether.png"
     },
     {
        "_id":"5f46d9afa3777022ec626178",
@@ -3481,7 +3481,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BarbecueChilli.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BarbecueChilli.png"
     },
     {
        "_id":"5f46d9afa3777022ec62619d",
@@ -3494,7 +3494,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SloppyButcher.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SloppyButcher.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261a0",
@@ -3507,7 +3507,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Whispers.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Whispers.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261a8",
@@ -3520,7 +3520,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/TrailOfTorment.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/TrailOfTorment.png"
     },
     {
        "_id":"5f46d9afa3777022ec626155",
@@ -3533,7 +3533,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Lightweight.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Lightweight.png"
     },
     {
        "_id":"5f46d9afa3777022ec626164",
@@ -3546,7 +3546,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Shadowborn.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Shadowborn.png"
     },
     {
        "_id":"5f46d9afa3777022ec626166",
@@ -3559,7 +3559,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Lightborn.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Lightborn.png"
     },
     {
        "_id":"5f46d9afa3777022ec626172",
@@ -3572,7 +3572,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/MonitorAbuse.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/MonitorAbuse.png"
     },
     {
        "_id":"5f46d9afa3777022ec626173",
@@ -3585,7 +3585,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Overcharge.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Overcharge.png"
     },
     {
        "_id":"5f46d9afa3777022ec626175",
@@ -3598,7 +3598,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/TerritorialImperative.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/TerritorialImperative.png"
     },
     {
        "_id":"5f46d9afa3777022ec626179",
@@ -3611,7 +3611,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/FranklinsDemise.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/FranklinsDemise.png"
     },
     {
        "_id":"5f46d9afa3777022ec626187",
@@ -3624,7 +3624,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/MadGrit.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/MadGrit.png"
     },
     {
        "_id":"5f46d9afa3777022ec62613e",
@@ -3637,7 +3637,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Autodidact.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Autodidact.png"
     },
     {
        "_id":"5f46d9afa3777022ec626167",
@@ -3650,7 +3650,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Tinkerer.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Tinkerer.png"
     },
     {
        "_id":"5f46d9afa3777022ec62616c",
@@ -3663,7 +3663,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/PlaywithYourFood.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/PlaywithYourFood.png"
     },
     {
        "_id":"5f46d9afa3777022ec62616d",
@@ -3676,7 +3676,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DyingLight.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DyingLight.png"
     },
     {
        "_id":"5f46d9afa3777022ec62616e",
@@ -3689,7 +3689,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexTheThirdSeal.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexTheThirdSeal.png"
     },
     {
        "_id":"5f46d9afa3777022ec626177",
@@ -3702,7 +3702,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/KnockOut.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/KnockOut.png"
     },
     {
        "_id":"5f46d9afa3777022ec626181",
@@ -3715,7 +3715,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Coulrophobia.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Coulrophobia.png"
     },
     {
        "_id":"5f46d9afa3777022ec626182",
@@ -3728,7 +3728,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/PopGoestheWeasel.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/PopGoestheWeasel.png"
     },
     {
        "_id":"5f46d9afa3777022ec626186",
@@ -3741,7 +3741,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Discordance.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Discordance.png"
     },
     {
        "_id":"5f46d9afa3777022ec62618a",
@@ -3754,7 +3754,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/InfectiousFright.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/InfectiousFright.png"
     },
     {
        "_id":"5f46d9afa3777022ec626190",
@@ -3767,7 +3767,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Mindbreaker.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Mindbreaker.png"
     },
     {
        "_id":"5f46d9afa3777022ec626191",
@@ -3780,7 +3780,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/CruelLimits.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/CruelLimits.png"
     },
     {
        "_id":"5f46d9afa3777022ec626195",
@@ -3793,7 +3793,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BitterMurmur.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BitterMurmur.png"
     },
     {
        "_id":"5f46d9afa3777022ec626165",
@@ -3806,7 +3806,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Enduring.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Enduring.png"
     },
     {
        "_id":"5f46d9afa3777022ec626183",
@@ -3819,7 +3819,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SpiritFury.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SpiritFury.png"
     },
     {
        "_id":"5f46d9afa3777022ec62618d",
@@ -3832,7 +3832,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ThrillingTremors.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ThrillingTremors.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261a2",
@@ -3845,7 +3845,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DeadMansSwitch.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DeadMansSwitch.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261ab",
@@ -3858,7 +3858,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BloodPact.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BloodPact.png"
     },
     {
        "_id":"5f46d9afa3777022ec626137",
@@ -3871,7 +3871,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DetectivesHunch.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DetectivesHunch.png"
     },
     {
        "_id":"5f46d9afa3777022ec626154",
@@ -3884,7 +3884,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Kindred.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Kindred.png"
     },
     {
        "_id":"5f46d9afa3777022ec62615d",
@@ -3897,7 +3897,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ThisIsNotHappening.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ThisIsNotHappening.png"
     },
     {
        "_id":"5f46d9afa3777022ec626168",
@@ -3910,7 +3910,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Stridor.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Stridor.png"
     },
     {
        "_id":"5f46d9afa3777022ec626180",
@@ -3923,7 +3923,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Bamboozle.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Bamboozle.png"
     },
     {
        "_id":"5f46d9afa3777022ec626194",
@@ -3936,7 +3936,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Nemesis.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Nemesis.png"
     },
     {
        "_id":"5f46d9afa3777022ec62615f",
@@ -3949,7 +3949,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/UnnervingPresence.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/UnnervingPresence.png"
     },
     {
        "_id":"5f46d9afa3777022ec626162",
@@ -3962,7 +3962,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Predator.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Predator.png"
     },
     {
        "_id":"5f46d9afa3777022ec62619c",
@@ -3975,7 +3975,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/MonstrousShrine.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/MonstrousShrine.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261ad",
@@ -3988,7 +3988,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/DragonsGrip.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DragonsGrip.png"
     },
     {
        "_id":"5f46d9afa3777022ec62614d",
@@ -4001,7 +4001,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/SecondWind.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SecondWind.png"
     },
     {
        "_id":"5f46d9afa3777022ec626157",
@@ -4014,7 +4014,7 @@
        "teach_level":0,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/PlunderersInstinct.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/PlunderersInstinct.png"
     },
     {
        "_id":"5f46d9afa3777022ec626160",
@@ -4027,7 +4027,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BrutalStrength.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BrutalStrength.png"
     },
     {
        "_id":"5f46d9afa3777022ec626161",
@@ -4040,7 +4040,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Agitation.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Agitation.png"
     },
     {
        "_id":"5f46d9afa3777022ec626176",
@@ -4053,7 +4053,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/HexHuntressLullaby.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexHuntressLullaby.png"
     },
     {
        "_id":"5f46d9afa3777022ec62617c",
@@ -4066,7 +4066,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BloodWarden.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BloodWarden.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261a5",
@@ -4079,7 +4079,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/RedHerring.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/RedHerring.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261a6",
@@ -4092,7 +4092,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/ForThePeople.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ForThePeople.png"
     },
     {
        "_id":"5f46d9afa3777022ec6261b2",
@@ -4105,7 +4105,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"fr",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/BuiltToLast.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BuiltToLast.png"
     },
     {
        "_id":"5fc742692a96603d88eb19c6",
@@ -4118,7 +4118,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Appraisal.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Appraisal.png"
     },
     {
        "_id":"5fc742692a96603d88eb19c7",
@@ -4131,7 +4131,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Deception.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Deception.png"
     },
     {
        "_id":"5fc742692a96603d88eb19c8",
@@ -4144,7 +4144,7 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/PowerStruggle.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/PowerStruggle.png"
     },
     {
        "_id":"5fc742692a96603d88eb19c9",
@@ -4157,7 +4157,7 @@
        "teach_level":30,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Hoarder.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Hoarder.png"
     },
     {
        "_id":"5fc742692a96603d88eb19ca",
@@ -4170,7 +4170,7 @@
        "teach_level":35,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/Oppression.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Oppression.png"
     },
     {
        "_id":"5fc742692a96603d88eb19cb",
@@ -4183,6 +4183,6 @@
        "teach_level":40,
        "is_ptb":false,
        "lang":"en",
-       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/tree/main/MyGamesCompanionData/Perks/CoupDeGrace.png"
+       "icon":"https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/CoupDeGrace.png"
     }
  ]
