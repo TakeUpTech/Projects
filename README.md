@@ -21,8 +21,6 @@ In this escape game, your objective will be to explore an abandoned spaceship in
   <img alt="game" src="https://user-images.githubusercontent.com/73184884/144097155-ecf24298-8ef7-4310-b2a7-b8f411333a30.png" width="512"/>
 </p>
 
-**Release :** [Github](https://github.com/CyberTorii/Projects/releases/tag/v1.0.0)
-
 ## Survival on Titan
 
 **Informations :** 
@@ -41,8 +39,6 @@ In this game inspired by Attack on Titans, your mission will be to survive as lo
 <p align="center">
    <img alt="option" src="https://user-images.githubusercontent.com/73184884/143930570-52f2afb5-4ed4-4afa-9ee8-2b942d3053c0.jpg" width="512"/>
 </p>
-
-**Release :** [Github](https://github.com/CyberTorii/Projects/releases/tag/1.1.43)
 
 ## Slide Arena
 
