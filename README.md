@@ -189,6 +189,6 @@ Coming soon
 - Krita - 2D design
 
 # ./Links :
-- [Google Play Store Page](https://play.google.com/store/apps/dev?id=4748174806962614888&hl=fr&gl=US)
-- [itch.io Page](https://cybertorii.itch.io/)
+- [Google Play Store](https://play.google.com/store/apps/dev?id=4748174806962614888&hl=fr&gl=US)
+- [itch.io](https://cybertorii.itch.io/)
 - [YouTube Channel](https://www.youtube.com/channel/UCCHZRtEp3Ac9402OL-5KhLg)
