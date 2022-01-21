@@ -172,10 +172,6 @@ This project is a rework of Space Escape, my first game : an escape game develop
 
 Coming soon
 
-# ./Art and Illustrations :
-
-Coming soon
-
 # ./Software used :
 - Unity 3D - Video games
 - blender - 3D modelling and animation
