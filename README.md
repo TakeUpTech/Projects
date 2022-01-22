@@ -170,7 +170,9 @@ This project is a rework of Space Escape, my first game : an escape game develop
 
 # ./3D Modeling :
 
-Coming soon
+<p align="center">
+  <img width="768" alt="blender" src="https://user-images.githubusercontent.com/73184884/150646947-94514631-efab-4264-a23f-960176598736.png"/>
+</p>
 
 # ./Software used :
 - Unity 3D - Video games
