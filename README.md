@@ -166,7 +166,7 @@ This project is a rework of Space Escape, my first game : an escape game develop
 
 [Flee Launch Trailer](https://youtu.be/4gkywrKIdNM)
 
-**Release :** [Github](https://github.com/CyberTorii/Projects/releases/tag/v2.0.0)
+**Release :** [Github](https://github.com/CyberTorii/Projects/releases/tag/v1.29.11.21)
 
 # ./3D Modeling :
 
