@@ -171,7 +171,7 @@ This project is a rework of Space Escape, my first game : an escape game develop
 # ./3D Modeling :
 
 <p align="center">
-  <img width="1920" alt="blender" src="https://user-images.githubusercontent.com/73184884/150646947-94514631-efab-4264-a23f-960176598736.png"/>
+  <img width="1920" alt="blender" src="https://user-images.githubusercontent.com/73184884/150673805-01db6172-fbae-48a2-9d0e-92be4eb6431b.png"/>
 </p>
 
 # ./Software used :
