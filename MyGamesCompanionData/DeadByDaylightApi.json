@@ -13,45 +13,6 @@
 		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/More.png"
 	},
 	{
-		"_id": "None",
-		"role": "Survivor",
-		"name": "Yoichi Asakawa",
-		"name_tag": "YA",
-		"perk_name": "Parental Guidance",
-		"perk_tag": "ParentalGuidance",
-		"description": "None.",
-		"teach_level": 30,
-		"is_ptb": false,
-		"lang": "en",
-		"icon": "https://github.com/CyberTorii/Projects/blob/main/MyGamesCompanionData/Perks/ParentalGuidance.png"
-	},
-	{
-		"_id": "None",
-		"role": "Survivor",
-		"name": "Yoichi Asakawa",
-		"name_tag": "YA",
-		"perk_name": "Empathic Connection",
-		"perk_tag": "EmpathicConnection",
-		"description": "None.",
-		"teach_level": 35,
-		"is_ptb": false,
-		"lang": "en",
-		"icon": "https://github.com/CyberTorii/Projects/blob/main/MyGamesCompanionData/Perks/EmpathicConnection.png"
-	},
-	{
-		"_id": "None",
-		"role": "Survivor",
-		"name": "Yoichi Asakawa",
-		"name_tag": "YA",
-		"perk_name": "Boon: Dark Theory",
-		"perk_tag": "BoonDarkTheory",
-		"description": "None.",
-		"teach_level": 40,
-		"is_ptb": false,
-		"lang": "en",
-		"icon": "https://github.com/CyberTorii/Projects/blob/main/MyGamesCompanionData/Perks/BoonDarkTheory.png"
-	},
-	{
 		"_id": "5f46d9afa3777022ec62608a",
 		"role": "Survivor",
 		"name": "Ace Visconti",
@@ -2533,5 +2494,44 @@
 		"is_ptb": false,
 		"lang": "en",
 		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexPentimento.png"
+	},
+	{
+		"_id": "None",
+		"role": "Survivor",
+		"name": "Yoichi Asakawa",
+		"name_tag": "YA",
+		"perk_name": "Parental Guidance",
+		"perk_tag": "ParentalGuidance",
+		"description": "None.",
+		"teach_level": 30,
+		"is_ptb": false,
+		"lang": "en",
+		"icon": "https://github.com/CyberTorii/Projects/blob/main/MyGamesCompanionData/Perks/ParentalGuidance.png"
+	},
+	{
+		"_id": "None",
+		"role": "Survivor",
+		"name": "Yoichi Asakawa",
+		"name_tag": "YA",
+		"perk_name": "Empathic Connection",
+		"perk_tag": "EmpathicConnection",
+		"description": "None.",
+		"teach_level": 35,
+		"is_ptb": false,
+		"lang": "en",
+		"icon": "https://github.com/CyberTorii/Projects/blob/main/MyGamesCompanionData/Perks/EmpathicConnection.png"
+	},
+	{
+		"_id": "None",
+		"role": "Survivor",
+		"name": "Yoichi Asakawa",
+		"name_tag": "YA",
+		"perk_name": "Boon: Dark Theory",
+		"perk_tag": "BoonDarkTheory",
+		"description": "None.",
+		"teach_level": 40,
+		"is_ptb": false,
+		"lang": "en",
+		"icon": "https://github.com/CyberTorii/Projects/blob/main/MyGamesCompanionData/Perks/BoonDarkTheory.png"
 	}
 ]
