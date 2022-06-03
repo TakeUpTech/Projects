@@ -1,6 +1,6 @@
 [
 	{
-		"_id": "None",
+		"_id": "0",
 		"role": "None",
 		"name": "None",
 		"name_tag": "N",
@@ -2496,7 +2496,7 @@
 		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/HexPentimento.png"
 	},
 	{
-		"_id": "None",
+		"_id": "0",
 		"role": "Survivor",
 		"name": "Yoichi Asakawa",
 		"name_tag": "YA",
@@ -2506,10 +2506,10 @@
 		"teach_level": 30,
 		"is_ptb": false,
 		"lang": "en",
-		"icon": "https://github.com/CyberTorii/Projects/blob/main/MyGamesCompanionData/Perks/ParentalGuidance.png"
+		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ParentalGuidance.png"
 	},
 	{
-		"_id": "None",
+		"_id": "0",
 		"role": "Survivor",
 		"name": "Yoichi Asakawa",
 		"name_tag": "YA",
@@ -2519,10 +2519,10 @@
 		"teach_level": 35,
 		"is_ptb": false,
 		"lang": "en",
-		"icon": "https://github.com/CyberTorii/Projects/blob/main/MyGamesCompanionData/Perks/EmpathicConnection.png"
+		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/EmpathicConnection.png"
 	},
 	{
-		"_id": "None",
+		"_id": "0",
 		"role": "Survivor",
 		"name": "Yoichi Asakawa",
 		"name_tag": "YA",
@@ -2532,6 +2532,45 @@
 		"teach_level": 40,
 		"is_ptb": false,
 		"lang": "en",
-		"icon": "https://github.com/CyberTorii/Projects/blob/main/MyGamesCompanionData/Perks/BoonDarkTheory.png"
-	}
+		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/BoonDarkTheory.png"
+	},
+	{
+		"_id": "0",
+		"role": "Killer",
+		"name": "Onryo",
+		"name_tag": "OY",
+		"perk_name": "Scourge Hook: Floods of Rage",
+		"perk_tag": "ScourgeHookFloodsOfRage",
+		"description": "None.",
+		"teach_level": 30,
+		"is_ptb": false,
+		"lang": "en",
+		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ScourgeHookFloodsOfRage.png"
+	},
+	{
+		"_id": "0",
+		"role": "Killer",
+		"name": "Onryo",
+		"name_tag": "OY",
+		"perk_name": "Call of Brine",
+		"perk_tag": "CallOfBrine",
+		"description": "None.",
+		"teach_level": 35,
+		"is_ptb": false,
+		"lang": "en",
+		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/CallOfBrine.png"
+	},
+	{
+		"_id": "0",
+		"role": "Killer",
+		"name": "Onryo",
+		"name_tag": "OY",
+		"perk_name": "Merciless Storm",
+		"perk_tag": "MercilessStorm",
+		"description": "None.",
+		"teach_level": 40,
+		"is_ptb": false,
+		"lang": "en",
+		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/MercilessStorm.png"
+	},
 ]
