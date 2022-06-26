@@ -1,4 +1,4 @@
-# Cybertorii's Projects
+# Take Up Tech's Projects
 > Here you will find an overview of all of my projects and releases present chronologically as a list.
 
 # ./Showreel :
@@ -52,7 +52,7 @@ Slide and dodge various and varied enemies coming from either side of a chessboa
 
 [Slide Arena Launch Trailer](https://youtu.be/d_oJrXqCORU)
 
-**Release :** [itch.io](https://cybertorii.itch.io/slide-arena), [Google Play Store](https://play.google.com/store/apps/details?id=com.CyberTorii.SlideArena)
+**Release :** [itch.io](https://take-up-tech.itch.io/slide-arena), [Google Play Store](https://play.google.com/store/apps/details?id=com.CyberTorii.SlideArena)
 
 ## AHOME
 
@@ -68,7 +68,7 @@ It's as part of a school project (in duo) of 2nd year of engineering school that
   <img width="768" alt="ahome" src="https://user-images.githubusercontent.com/73184884/150544490-17ebb2a0-fb50-4a20-98ce-309ff6736886.png"/>
 </p>
 
-**Release :** [Github](https://github.com/CyberTorii/AHOME/releases/tag/v1.0.0)
+**Release :** [Github](https://github.com/TakeUpTech/AHOME/releases/tag/v1.0.0)
 
 ## PACMAN 2 PLAYERS
 
@@ -84,7 +84,7 @@ It's as part of a school project (in duo) of 2nd year of engineering school that
   <img alt="pacman" src="https://user-images.githubusercontent.com/73184884/150544609-f95531a2-a0c6-4374-8e74-f68f0ddbf737.png" width="768"/>
 </p>
 
-**Release :** [Github](https://github.com/CyberTorii/PACMAN-2-PLAYERS/releases/tag/v1.0.0)
+**Release :** [Github](https://github.com/TakeUpTech/PACMAN-2-PLAYERS/releases/tag/v1.0.0)
 
 ## Quiz of what you want
 
@@ -100,7 +100,7 @@ This game is a customizable quiz developed in "speed run" over 48 hours. It allo
   <img alt="quiz" src="https://user-images.githubusercontent.com/73184884/150544684-f4b1a724-ae72-4834-8477-6db93998921a.png" width="768"/>
 </p>
 
-**Release :** [Github](https://github.com/CyberTorii/Quiz-of-what-you-want/releases/tag/v1.0.0)
+**Release :** [Github](https://github.com/TakeUpTech/Quiz-of-what-you-want/releases/tag/v1.0.0)
 
 ## Skill Tree
 
@@ -116,7 +116,7 @@ This personal project is a Skill Tree in real life. It is a test to learn how to
   <img alt="skilltree" src="https://user-images.githubusercontent.com/73184884/150544784-fb39e013-92ca-4f12-8520-317818d80e65.png" width="768"/>
 </p>
 
-**Release :** [Github](https://github.com/CyberTorii/Skill-Tree/releases/tag/v1.0.0)
+**Release :** [Github](https://github.com/TakeUpTech/Skill-Tree/releases/tag/v1.0.0)
 
 ## My Games Companion
 
@@ -132,7 +132,7 @@ This application is a game companion for multiple games. At the beginning, it's 
   <img width="768" alt="mygamescompanion" src="https://user-images.githubusercontent.com/73184884/150544873-b011b331-91df-4a44-8a36-1c2cb5a17633.png"/>
 </p>
 
-**Release :** [itch.io](https://cybertorii.itch.io/my-games-companion)
+**Release :** [itch.io](https://take-up-tech.itch.io/my-games-companion-dead-by-daylight-and-overwatch)
 
 ## Amadeus
 
@@ -148,7 +148,7 @@ Amadeus project is an artificial intelligence coded in python. The main goal of 
   <img width="768" alt="graphic" src="https://user-images.githubusercontent.com/73184884/125999025-db4194fe-261a-45cb-a1a7-a61a95883833.png"/>
 </p>
 
-**Work details :** [Github](https://github.com/CyberTorii/Amadeus)
+**Work details :** [Github](https://github.com/TakeUpTech/Amadeus)
 
 ## Flee (Space Escape rework)
 
@@ -166,7 +166,7 @@ This project is a rework of Space Escape, my first game : an escape game develop
 
 [Flee Launch Trailer](https://youtu.be/4gkywrKIdNM)
 
-**Release :** [Github](https://github.com/CyberTorii/Projects/releases/tag/v1.29.11.21)
+**Release :** [Github](https://github.com/TakeUpTech/Projects/releases/tag/v1.29.11.21)
 
 # ./3D Modeling :
 
