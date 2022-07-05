@@ -30,16 +30,16 @@ In this escape game, your objective will be to explore an abandoned spaceship in
 - Unity backup lost
 
 **Description :** \
-In this game inspired by Attack on Titans, your mission will be to survive as long as possible in the arena against a wave of titans. With your propulsion system and your two cannons, propel yourself and bring down all your enemies.
+In this game inspired by the anime, your mission will be to survive as long as possible in the arena against a wave of titans. With your propulsion system and your two cannons, propel yourself and bring down all your enemies.
 
 <p align="center">
-  <img alt="survivalontitan" src="https://user-images.githubusercontent.com/73184884/150544008-f10a2857-3176-40ee-9f48-91d2f1d12c4f.png" width="768"/>
+  <img alt="survivalontitan" src="https://user-images.githubusercontent.com/73184884/177372662-9f51ad24-2cbd-42ff-b81b-895b39772f43.png" width="768"/>
 </p>
 
 ## Slide Arena
 
 **Informations :** 
-- Date : 09/2020 - Currently
+- Date : 09/2020 - On break
 - Support : Unity 3D - C#
 - Platform : Android mobile
 
@@ -62,7 +62,7 @@ Slide and dodge various and varied enemies coming from either side of a chessboa
 - Platform : PC
 
 **Description :** \
-It's as part of a school project (in duo) of 2nd year of engineering school that we started programming the horror and action game Dead by Daylight in a text version. The game uses same "gameplay" of Dead by Daylight. The goal is to repair 3 generators to escape the place and a killer who is looking for you.
+It's as part of a school project (in duo) of 2nd year of engineering school that we started programming an horror, action and survival game in a text version in the terminal. The goal is to repair 3 generators to escape the place and a killer who is looking for you.
 
 <p align="center">
   <img width="768" alt="ahome" src="https://user-images.githubusercontent.com/73184884/150544490-17ebb2a0-fb50-4a20-98ce-309ff6736886.png"/>
@@ -97,7 +97,7 @@ It's as part of a school project (in duo) of 2nd year of engineering school that
 This game is a customizable quiz developed in "speed run" over 48 hours. It allows you to create one or more quizzes in a same game and to be able to mix all themes you want.
 
 <p align="center">
-  <img alt="quiz" src="https://user-images.githubusercontent.com/73184884/150544684-f4b1a724-ae72-4834-8477-6db93998921a.png" width="768"/>
+  <img alt="quiz" src="https://user-images.githubusercontent.com/73184884/177372332-8b1af48e-991c-4b9d-a3fb-f2267e7ebb86.png" width="768"/>
 </p>
 
 **Release :** [Github](https://github.com/TakeUpTech/Quiz-of-what-you-want/releases/tag/v1.0.0)
@@ -121,23 +121,21 @@ This personal project is a Skill Tree in real life. It is a test to learn how to
 ## My Games Companion
 
 **Informations :** 
-- Date : 07/2021 - Currently
+- Date : 07/2021 - Updated
 - Support : Unity 3D - C#
 - Platform : PC
 
 **Description :** \
-This application is a game companion for multiple games. At the beginning, it's a personal project, but I decided to share it with you.  For the demo (version G1) there is only a Dead by Daylight's game companion.  Future updates will allow to add new games and new features. Don't hesitate to put suggestions in the comments.
+This application is a game companion for multiple games. It's an extension for multiple games (at the moment, 2 games) to help you save team composition and perks builds for overw**** and dead by ********. It also allows you to create random perks builds.
 
 <p align="center">
-  <img width="768" alt="mygamescompanion" src="https://user-images.githubusercontent.com/73184884/150544873-b011b331-91df-4a44-8a36-1c2cb5a17633.png"/>
+  <img width="768" alt="mygamescompanion" src="https://user-images.githubusercontent.com/73184884/177372447-de6ffd83-9741-4553-8b08-7646a0c4c1b6.png"/>
 </p>
-
-**Release :** [itch.io](https://take-up-tech.itch.io/my-games-companion-dead-by-daylight-and-overwatch)
 
 ## Amadeus
 
 **Informations :** 
-- Date : 04/2021 - Currently
+- Date : 04/2021 - On break
 - Support : VSCode - Python
 - Platform : PC
 
@@ -153,7 +151,7 @@ Amadeus project is an artificial intelligence coded in python. The main goal of 
 ## Flee (Space Escape rework)
 
 **Informations :** 
-- Date : 08/2021 - Currently
+- Date : 08/2021
 - Support : Unity 3D - C#
 - Platform : PC
 
