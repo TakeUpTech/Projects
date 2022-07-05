@@ -166,6 +166,22 @@ This project is a rework of Space Escape, my first game : an escape game develop
 
 **Release :** [Github](https://github.com/TakeUpTech/Projects/releases/tag/v1.29.11.21)
 
+## Hacking Point Minigame
+
+**Informations :** 
+- Date : 05/2022
+- Support : Python
+- Platform : PC
+
+**Description :** \
+For my first project in python and to put in practice, my personal training, I decided to code a breach protocol hacking minigame. This is a little project that regroup python programming, object oriented programming and user interfaces. A matrix is generated randomly and you have a random sequence to resolve. To resolve it, you need to select in order all symbols from the sequence in the matrix.
+
+<p align="center">
+  <img width="768" alt="hackingpointminigame" src="https://user-images.githubusercontent.com/73184884/177375373-63f1237d-374f-47a0-ba1d-90c50bdcf021.png"/>
+</p>
+
+**Release :** [Github](https://github.com/TakeUpTech/Hacking-Point-Minigame)
+
 # ./3D Modeling :
 
 <p align="center">
@@ -181,5 +197,5 @@ This project is a rework of Space Escape, my first game : an escape game develop
 
 # ./Links :
 - [Google Play Store](https://play.google.com/store/apps/dev?id=4748174806962614888&hl=fr&gl=US)
-- [itch.io](https://cybertorii.itch.io/)
+- [itch.io](https://take-up-tech.itch.io/)
 - [YouTube Channel](https://www.youtube.com/channel/UCCHZRtEp3Ac9402OL-5KhLg)
