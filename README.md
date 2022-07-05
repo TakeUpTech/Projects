@@ -146,8 +146,6 @@ Amadeus project is an artificial intelligence coded in python. The main goal of 
   <img width="768" alt="graphic" src="https://user-images.githubusercontent.com/73184884/125999025-db4194fe-261a-45cb-a1a7-a61a95883833.png"/>
 </p>
 
-**Work details :** [Github](https://github.com/TakeUpTech/Amadeus)
-
 ## Flee (Space Escape rework)
 
 **Informations :** 
@@ -180,7 +178,7 @@ For my first project in python and to put in practice, my personal training, I d
   <img width="768" alt="hackingpointminigame" src="https://user-images.githubusercontent.com/73184884/177375373-63f1237d-374f-47a0-ba1d-90c50bdcf021.png"/>
 </p>
 
-**Release :** [Github](https://github.com/TakeUpTech/Hacking-Point-Minigame)
+**Work details :** [Github](https://github.com/TakeUpTech/Hacking-Point-Minigame)
 
 # ./3D Modeling :
 
