@@ -178,7 +178,7 @@ For my first project in python and to put in practice, my personal training, I d
   <img width="768" alt="hackingpointminigame" src="https://user-images.githubusercontent.com/73184884/177375373-63f1237d-374f-47a0-ba1d-90c50bdcf021.png"/>
 </p>
 
-**Work details :** [Github](https://github.com/TakeUpTech/Hacking-Point-Minigame)
+**Release :** [Github](https://github.com/TakeUpTech/Hacking-Point-Minigame/releases/tag/V.1.07.07.22)
 
 # ./3D Modeling :
 
