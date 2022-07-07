@@ -175,7 +175,7 @@ This project is a rework of Space Escape, my first game : an escape game develop
 For my first project in python and to put in practice, my personal training, I decided to code a breach protocol hacking minigame. This is a little project that regroup python programming, object oriented programming and user interfaces. A matrix is generated randomly and you have a random sequence to resolve. To resolve it, you need to select in order all symbols from the sequence in the matrix.
 
 <p align="center">
-  <img width="768" alt="hackingpointminigame" src="https://user-images.githubusercontent.com/73184884/177375373-63f1237d-374f-47a0-ba1d-90c50bdcf021.png"/>
+  <img width="768" alt="hackingpointminigame" src="https://user-images.githubusercontent.com/73184884/177855210-a0982045-eb10-470f-8b12-16d952ff81d4.png"/>
 </p>
 
 **Release :** [Github](https://github.com/TakeUpTech/Hacking-Point-Minigame/releases/tag/V.1.07.07.22)
