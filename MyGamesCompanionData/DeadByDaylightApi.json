@@ -2573,4 +2573,82 @@
 		"lang": "en",
 		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/MercilessStorm.png"
 	},
+	{
+		"_id": "0",
+		"role": "Survivor",
+		"name": "Haddie",
+		"name_tag": "HA",
+		"perk_name": "Inner Focus",
+		"perk_tag": "InnerFocus",
+		"description": "None.",
+		"teach_level": 30,
+		"is_ptb": false,
+		"lang": "en",
+		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/InnerFocus.png"
+	},
+	{
+		"_id": "0",
+		"role": "Survivor",
+		"name": "Haddie",
+		"name_tag": "HA",
+		"perk_name": "Overzealous",
+		"perk_tag": "Overzealous",
+		"description": "None.",
+		"teach_level": 35,
+		"is_ptb": false,
+		"lang": "en",
+		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Overzealous.png"
+	},
+	{
+		"_id": "0",
+		"role": "Survivor",
+		"name": "Haddie",
+		"name_tag": "HA",
+		"perk_name": "Residual Manifest",
+		"perk_tag": "ResidualManifest",
+		"description": "None.",
+		"teach_level": 40,
+		"is_ptb": false,
+		"lang": "en",
+		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/ResidualManifest.png"
+	},
+		{
+		"_id": "0",
+		"role": "Killer",
+		"name": "Dredge",
+		"name_tag": "DR",
+		"perk_name": "Darkness Revealed",
+		"perk_tag": "DarknessRevealed",
+		"description": "None.",
+		"teach_level": 30,
+		"is_ptb": false,
+		"lang": "en",
+		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/DarknessRevealed.png"
+	},
+	{
+		"_id": "0",
+		"role": "Killer",
+		"name": "Dredge",
+		"name_tag": "DR",
+		"perk_name": "Dissolution",
+		"perk_tag": "Dissolution",
+		"description": "None.",
+		"teach_level": 35,
+		"is_ptb": false,
+		"lang": "en",
+		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/Dissolution.png"
+	},
+	{
+		"_id": "0",
+		"role": "Killer",
+		"name": "Dredge",
+		"name_tag": "DR",
+		"perk_name": "Septic Touch",
+		"perk_tag": "SepticTouch",
+		"description": "None.",
+		"teach_level": 40,
+		"is_ptb": false,
+		"lang": "en",
+		"icon": "https://raw.githubusercontent.com/CyberTorii/Projects/main/MyGamesCompanionData/Perks/SepticTouch.png"
+	}
 ]
